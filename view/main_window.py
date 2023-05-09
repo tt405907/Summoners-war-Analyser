@@ -2,6 +2,7 @@ from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QMainWindow, QStackedWidget, QLabel, QPushButton, QLineEdit, QHBoxLayout, QWidget
 from PyQt5 import QtCore
 
+
 class MainWindow(QMainWindow):
 
     def __init__(self, page_home):

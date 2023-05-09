@@ -1,4 +1,3 @@
-from view.page_home.view_page_home import ViewPageHome
 from view.view_main_window import ViewMainWindow
 
 

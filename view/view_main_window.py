@@ -1,5 +1,5 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QFileDialog
+from PyQt5.QtWidgets import QApplication
 
 from view.main_window import MainWindow
 from view.page_home.view_page_home import ViewPageHome
