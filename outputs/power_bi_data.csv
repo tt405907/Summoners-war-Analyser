@@ -1,0 +1,1259 @@
+,id,slot,upgrade_current,primary,inate,sub1,sub2,sub3,sub4,rarity,nb_stars,type,grind,effi_stats,effi_real
+0,42016891871,2,15, VIT, % Accuracy, ATK, % HP, % DEF, % ATK,Legend,6,Fatale,77.77,81.04,82.85
+1,29374206876,3,15, DEF, % Accuracy, HP, % HP, % Tx. crit, VIT,Legend,6,Will,70.84,79.92,80.07
+2,36851979490,6,15, % ATK,, % Tx. crit, % Dmg crit, % HP, VIT,A Legend,16,Vampire,0.0,87.03,78.84
+3,28411113235,4,15, % HP, HP, % Tx. crit, % ATK, VIT, % DEF,Legend,5,Focus,53.33,80.75,78.38
+4,40941082863,5,15, HP, DEF, % Tx. crit, % Accuracy, % DEF, % ATK,Legend,6,Will,50.0,80.68,78.34
+5,38735618555,1,15, ATK,, % Res, % ATK, HP, VIT,Legend,6,Violent,67.63,75.48,77.9
+6,37136292974,3,12, DEF, % Accuracy, % DEF, % HP, % Dmg crit, VIT,A Legend,15,Rage,0.0,85.77,77.7
+7,28296182750,6,15, % DEF, % Dmg crit, HP, % ATK, % Accuracy, DEF,Legend,6,Revenge,70.64,76.08,77.55
+8,38953588253,6,15, % DEF, % Res, HP, % Tx. crit, DEF, % Dmg crit,Legend,6,Rage,73.33,78.93,77.54
+9,30532149714,3,12, DEF, % Tx. crit, % HP, % Accuracy, % Dmg crit, % DEF,Legend,6,Lame,70.0,79.76,77.24
+10,30610671921,2,15, % HP, % Accuracy, % DEF, DEF, % Res, % ATK,Héroïque,6,Despair,71.11,75.9,77.01
+11,42441929671,4,15, % HP,, % ATK, % Res, VIT, % DEF,A Legend,16,Swift,0.0,84.85,76.86
+12,37408288592,2,15, % ATK,, % Tx. crit, VIT, % DEF, % HP,Legend,6,Rage,73.33,73.06,76.85
+13,36001861214,1,15, ATK, % Tx. crit, % ATK, HP, % HP, % Dmg crit,Legend,6,Will,69.21,75.42,76.66
+14,36281225504,5,15, HP, % Dmg crit, % Tx. crit, VIT, % DEF, % HP,Héroïque,6,Despair,73.33,74.15,76.51
+15,40754513570,3,15, DEF, HP, % Tx. crit, % HP, % DEF, % Res,Legend,6,Will,70.0,80.43,76.15
+16,38946562260,1,15, ATK, % Dmg crit, % Accuracy, VIT, % HP, % Tx. crit,Héroïque,6,Destruction,65.0,75.49,75.48
+17,31097045528,4,15, % Dmg crit,, VIT, % Res, % ATK, % Tx. crit,Legend,6,Violent,50.0,80.13,75.35
+18,41162886743,6,15, % HP,, VIT, % Accuracy, % ATK, % DEF,A Legend,16,Energy,0.0,82.83,75.03
+19,40595174924,1,12, ATK, % ATK, % Accuracy, % Tx. crit, % HP, % Res,Legend,6,Violent,0.0,82.53,74.77
+20,36042873650,2,15, % DEF, % ATK, VIT, % HP, % Accuracy, % Dmg crit,Legend,6,Rage,75.0,74.64,74.71
+21,29288120431,5,15, HP, % Dmg crit, % Res, VIT, % DEF, % HP,Legend,6,Energy,60.0,78.34,74.65
+22,27332243890,5,12, HP, DEF, % Tx. crit, % Dmg crit, % DEF, VIT,Legend,6,Energy,80.0,74.09,74.59
+23,36423519478,6,15, % Accuracy, % Dmg crit, % ATK, VIT, % HP, % DEF,Héroïque,6,Energy,65.0,71.15,74.36
+24,28109917582,3,15, DEF, % HP, % Res, VIT, HP, % Accuracy,Legend,6,Violent,90.54,75.19,74.33
+25,39135473309,4,15, % Dmg crit,, % ATK, % DEF, % Tx. crit, VIT,A Legend,16,Swift,0.0,81.77,74.08
+26,38884522887,2,12, VIT, % Dmg crit, ATK, % Tx. crit, % DEF, % HP,Legend,6,Rage,0.0,81.7,74.01
+27,30915767847,5,15, HP,, % Tx. crit, VIT, ATK, % Dmg crit,Legend,6,Violent,73.33,74.95,73.84
+28,39020737542,6,12, % Accuracy, % DEF, % Dmg crit, % Tx. crit, % HP, % Res,Legend,6,Will,0.0,81.46,73.8
+29,36233388067,1,15, ATK, % ATK, % Tx. crit, VIT, % Accuracy, % Dmg crit,Héroïque,6,Rage,80.0,78.86,73.69
+30,38934775044,3,15, DEF, % Dmg crit, % HP, VIT, % Tx. crit, % DEF,Héroïque,6,Vampire,66.66,74.58,73.5
+31,28523963876,4,15, % DEF,, DEF, % Dmg crit, % ATK, VIT,Legend,6,Revenge,50.0,76.71,73.5
+32,29155334044,5,15, HP, % Accuracy, % ATK, % DEF, VIT, % HP,Héroïque,6,Focus,57.5,72.13,73.49
+33,37595974858,5,15, HP,, % Dmg crit, % HP, % Tx. crit, % ATK,Legend,6,Violent,70.0,72.28,73.36
+34,30852919794,2,15, VIT,, % ATK, % Dmg crit, % Tx. crit, % DEF,Legend,6,Vampire,60.0,77.06,73.22
+35,41876771481,6,15, % HP,, VIT, % Dmg crit, % Tx. crit, % DEF,A Legend,16,Vampire,0.0,80.82,73.22
+36,36795251851,3,15, DEF, % Dmg crit, % DEF, % HP, VIT, HP,Héroïque,6,Energy,71.9,64.16,73.0
+37,40592961299,2,15, % HP, ATK, % DEF, % ATK, HP, % Tx. crit,Legend,6,Revenge,68.24,65.87,72.65
+38,31209355265,3,15, DEF,, VIT, HP, % DEF, % HP,Legend,6,Fatale,61.68,71.33,72.64
+39,40305473465,1,12, ATK, HP, VIT, % Accuracy, % Res, % ATK,Legend,6,Endurance,0.0,80.12,72.58
+40,39116090336,2,15, % HP, % Tx. crit, HP, % ATK, VIT, % Dmg crit,Héroïque,6,Proctection,65.81,71.41,72.56
+41,37373146888,4,15, % Dmg crit,, % DEF, VIT, % HP, % Tx. crit,Legend,6,Will,60.0,74.28,72.45
+42,28331410832,3,15, DEF, % DEF, VIT, % Tx. crit, % HP, HP,Legend,6,Revenge,71.9,68.09,72.28
+43,39489705842,6,15, % ATK,, % Tx. crit, VIT, % Dmg crit, % Res,A Legend,16,Lame,0.0,79.77,72.26
+44,38660810735,2,15, % ATK,, % Dmg crit, % DEF, % Tx. crit, VIT,A Legend,16,Will,0.0,79.74,72.24
+45,37202243034,4,15, % Dmg crit,, % Tx. crit, % ATK, % HP, HP,Héroïque,6,Nemesis,69.63,67.6,72.03
+46,42334995431,1,12, ATK, % HP, VIT, % Tx. crit, % Dmg crit, % Accuracy,Legend,6,Energy,0.0,79.03,71.6
+47,30609254029,3,12, DEF, % HP, % Accuracy, % DEF, VIT, HP,Legend,6,Swift,59.54,71.93,71.58
+48,28565363905,3,15, DEF, % Tx. crit, % Accuracy, VIT, % Res, % DEF,Héroïque,6,Revenge,70.0,73.81,71.49
+49,41519041137,6,15, % ATK,, % Tx. crit, VIT, % Dmg crit, % HP,A Legend,16,Despair,0.0,78.89,71.47
+50,40594177110,4,15, % Dmg crit,, % ATK, % Tx. crit, % HP, VIT,A Legend,16,Vampire,0.0,78.79,71.37
+51,36971348930,1,15, ATK,, % ATK, HP, % Accuracy, VIT,Legend,6,Determination,64.99,72.13,71.37
+52,38948868514,2,15, VIT, % Accuracy, % ATK, % HP, % Dmg crit, % DEF,Legend,6,Nemesis,63.33,72.79,71.32
+53,29017951409,3,15, DEF,, % Tx. crit, % Accuracy, % DEF, VIT,Legend,6,Violent,70.0,70.28,71.15
+54,37737924442,4,15, % ATK, % Res, % Dmg crit, % DEF, VIT, % HP,Héroïque,6,Endurance,66.66,70.21,71.08
+55,39093773218,6,12, HP, DEF, % DEF, ATK, VIT, % HP,Legend,6,Revenge,0.0,78.15,70.8
+56,37484366408,4,15, % DEF, % HP, VIT, DEF, % Tx. crit, HP,Legend,6,Swift,80.54,72.94,70.58
+57,27281377606,4,12, % HP, DEF, % DEF, % Tx. crit, % Accuracy, ATK,Legend,5,Despair,0.0,77.73,70.41
+58,29604454208,4,15, % Dmg crit, % HP, HP, VIT, % DEF, DEF,Legend,6,Lame,54.12,74.65,70.37
+59,28058548194,5,15, HP, % Accuracy, % ATK, % HP, % Dmg crit, % Res,Legend,6,Swift,0.0,77.61,70.31
+60,31588772534,2,15, % HP, VIT, % Res, HP, % ATK, % Dmg crit,Legend,5,Combat,0.0,77.35,70.07
+61,39292820346,6,12, % HP, % Accuracy, % Dmg crit, % DEF, % ATK, % Res,Legend,6,Endurance,0.0,77.23,69.96
+62,37136287738,1,9, ATK, % Accuracy, % Dmg crit, % Tx. crit, VIT, % Res,A Legend,16,Endurance,0.0,77.16,69.9
+63,38947924610,4,15, % ATK,, VIT, % Dmg crit, % HP, HP,Legend,6,Destruction,79.15,64.8,69.73
+64,29294714267,2,15, VIT, % Tx. crit, DEF, % Res, % HP, % DEF,Héroïque,5,Swift,62.22,64.19,69.7
+65,31673896730,3,15, DEF,, % Tx. crit, % HP, % DEF, % Dmg crit,Legend,6,Rage,55.0,72.68,69.65
+66,39025144796,1,12, ATK, % Res, VIT, % Dmg crit, % HP, % Tx. crit,Legend,6,Vampire,0.0,76.89,69.65
+67,40307517882,1,12, ATK,, % Dmg crit, VIT, % Tx. crit, % Res,Legend,6,Endurance,0.0,76.87,69.64
+68,36295314846,5,15, HP,, % Dmg crit, % ATK, % Tx. crit, ATK,Héroïque,6,Lame,66.66,68.59,69.63
+69,29617935252,4,15, % Dmg crit, VIT, % Accuracy, % HP, HP, % Tx. crit,Legend,6,Energy,68.99,70.5,69.59
+70,40741512765,4,12, % Dmg crit, % ATK, % Res, DEF, % HP, % Tx. crit,Legend,6,Rage,0.0,76.76,69.53
+71,40613621036,3,15, DEF, % Dmg crit, % Tx. crit, % Res, VIT, % DEF,Héroïque,6,Gardian,75.0,72.33,69.51
+72,27442177478,6,12, % ATK, % Res, % Accuracy, % HP, % DEF, VIT,Legend,5,Swift,0.0,76.67,69.46
+73,35839479631,5,15, HP,, % DEF, % Res, % ATK, % Tx. crit,Legend,6,Violent,70.0,67.88,69.11
+74,41517040366,3,15, DEF, VIT, % DEF, % Dmg crit, % Res, % Tx. crit,Héroïque,6,Focus,0.0,76.26,69.08
+75,42017954066,1,15, ATK, % Res, % Tx. crit, % Dmg crit, HP, % ATK,Legend,6,Lame,65.99,67.34,69.06
+76,36491179735,5,12, HP,, % Dmg crit, % HP, % Tx. crit, % DEF,Legend,6,Swift,50.0,71.31,69.06
+77,38912956613,1,15, ATK, % Accuracy, % HP, HP, % Tx. crit, % ATK,Legend,6,Vampire,60.3,69.24,69.05
+78,40657375132,1,12, ATK, % Accuracy, VIT, % Tx. crit, % Dmg crit, HP,Legend,6,Nemesis,0.0,76.22,69.04
+79,30947574243,4,15, % DEF,, VIT, % Res, DEF, % HP,A Legend,16,Rage,0.0,76.14,68.98
+80,39246066385,1,12, ATK, HP, % ATK, VIT, % Accuracy, % HP,Legend,6,Proctection,0.0,76.09,68.93
+81,38941122079,6,15, % ATK,, % DEF, % Tx. crit, % HP, VIT,Héroïque,6,Nemesis,60.0,67.13,68.79
+82,36447404493,1,12, ATK,, % Tx. crit, VIT, % ATK, % HP,Héroïque,6,Fatale,55.0,69.06,68.74
+83,38996243548,6,15, % ATK, DEF, VIT, % Accuracy, % Tx. crit, % DEF,Legend,6,Will,0.0,75.87,68.73
+84,40613714313,5,12, HP, % HP, VIT, DEF, % ATK, % DEF,Legend,6,Endurance,0.0,75.76,68.63
+85,36660068538,6,15, % DEF, DEF, HP, % Dmg crit, % Accuracy, VIT,Legend,6,Despair,67.27,70.59,68.58
+86,40337775995,3,12, DEF, % HP, VIT, % Dmg crit, % DEF, % Res,Legend,6,Endurance,0.0,75.64,68.52
+87,37138539687,2,15, VIT,, % Tx. crit, % Dmg crit, % DEF, % ATK,A Legend,16,Swift,0.0,75.59,68.48
+88,29281343270,4,15, % Dmg crit, ATK, % Tx. crit, VIT, % ATK, % DEF,Héroïque,6,Lame,60.0,65.6,68.48
+89,27003777234,5,12, HP,, % Accuracy, VIT, % HP, % ATK,Héroïque,5,Swift,60.0,67.16,68.39
+90,30844502070,1,15, ATK,, % Dmg crit, % Tx. crit, HP, % HP,Legend,6,Despair,55.63,71.68,68.36
+91,36027194090,1,15, ATK,, % Tx. crit, % Res, % ATK, % HP,Legend,6,Will,55.0,69.27,68.14
+92,30915740583,1,15, ATK,, % Tx. crit, VIT, % ATK, % Accuracy,Legend,6,Violent,60.0,72.43,68.11
+93,29614117132,3,15, DEF,, HP, VIT, % Tx. crit, % HP,Legend,6,Fatale,72.42,66.64,68.09
+94,40331222688,2,15, VIT,, DEF, % Res, % HP, % ATK,Legend,6,Violent,83.33,67.49,68.07
+95,41615369662,3,15, DEF, VIT, % HP, % DEF, % Tx. crit, % Accuracy,Héroïque,6,Endurance,0.0,75.07,68.0
+96,27904109506,4,15, % Tx. crit, % Accuracy, ATK, % DEF, % HP, % Res,Legend,6,Fatale,0.0,75.02,67.96
+97,28273623748,3,12, DEF,, % Res, % Tx. crit, VIT, % DEF,Legend,6,Revenge,0.0,74.96,67.9
+98,28425645300,4,15, % Dmg crit, % Accuracy, % HP, % DEF, VIT, % Res,Legend,6,Focus,60.0,68.67,67.87
+99,39174917399,2,15, VIT, % Dmg crit, % HP, % DEF, % ATK, % Accuracy,Héroïque,6,Proctection,60.0,68.82,67.86
+100,36298634343,6,15, % HP,, % Accuracy, % Dmg crit, VIT, HP,Legend,6,Energy,0.0,74.71,67.68
+101,41704516076,1,12, ATK, HP, % Tx. crit, VIT, % Dmg crit, % ATK,Héroïque,6,Focus,0.0,74.7,67.67
+102,38989870828,4,15, % Dmg crit,, % Tx. crit, VIT, % ATK, % DEF,Héroïque,6,Vampire,60.0,67.59,67.65
+103,27279269870,3,12, DEF, % Accuracy, % Tx. crit, % DEF, % Dmg crit, % HP,Legend,6,Despair,55.0,70.97,67.58
+104,40941470090,6,15, % HP, % Accuracy, % DEF, VIT, HP, DEF,Legend,6,Rage,0.0,74.57,67.56
+105,38887965538,2,15, VIT, HP, % ATK, % Dmg crit, % Tx. crit, % Accuracy,Héroïque,6,Vampire,70.0,71.79,67.53
+106,39080912533,5,12, HP,, % Tx. crit, % Dmg crit, % Res, VIT,Legend,6,Rage,0.0,74.52,67.51
+107,28434845639,2,15, % HP, % ATK, % Dmg crit, % DEF, VIT, % Tx. crit,Héroïque,5,Violent,0.0,74.45,67.45
+108,37472732392,6,15, % ATK, % Accuracy, VIT, % Dmg crit, % Tx. crit, % HP,Héroïque,6,Focus,65.0,68.87,67.39
+109,36334241986,1,12, ATK,, % Accuracy, HP, % Tx. crit, % ATK,Legend,6,Energy,0.0,74.36,67.36
+110,36170358307,1,12, ATK,, VIT, % HP, % Accuracy, % Dmg crit,Legend,6,Endurance,60.0,69.6,67.35
+111,26864174243,4,15, % HP,, VIT, % ATK, % Accuracy, DEF,Legend,5,Violent,51.11,67.57,67.34
+112,28743329556,1,12, ATK, % ATK, % Dmg crit, % Accuracy, % Res, % HP,Legend,6,Gardian,60.0,72.01,67.34
+113,36006998583,3,15, DEF, VIT, % Res, % Accuracy, % DEF, % HP,Legend,6,Vampire,45.0,72.41,67.3
+114,36267111906,4,15, % Dmg crit,, ATK, % HP, % ATK, % Tx. crit,Legend,6,Swift,53.33,71.96,67.28
+115,38953644720,4,12, % Dmg crit,, % Res, % DEF, % HP, VIT,Legend,6,Nemesis,0.0,74.24,67.25
+116,39159380526,5,12, HP, % Res, % Accuracy, % ATK, % Tx. crit, % Dmg crit,Legend,6,Revenge,0.0,74.2,67.22
+117,36377456962,2,15, % DEF,, DEF, % Tx. crit, % Dmg crit, HP,Héroïque,6,Energy,66.66,69.61,67.2
+118,38966108044,5,15, HP, VIT, % HP, % DEF, % ATK, % Tx. crit,Héroïque,6,Vampire,56.66,68.5,67.18
+119,37203707658,5,12, HP, % DEF, % Accuracy, % Tx. crit, % Dmg crit, % ATK,Héroïque,6,Rage,70.0,70.22,67.16
+120,40742566909,2,12, VIT, DEF, HP, % HP, ATK, % Res,Legend,6,Nemesis,0.0,74.1,67.13
+121,39170551266,6,12, % ATK, ATK, % HP, % DEF, % Tx. crit, VIT,Legend,6,Proctection,0.0,74.07,67.1
+122,29569177068,4,15, % Dmg crit,, % Tx. crit, VIT, % DEF, % ATK,Legend,6,Violent,56.66,67.97,67.07
+123,38950377369,4,15, % Dmg crit,, VIT, % ATK, % Tx. crit, % Accuracy,Héroïque,6,Rage,60.0,70.83,66.93
+124,27265237343,5,15, HP, % ATK, % Tx. crit, % DEF, VIT, % HP,Legend,6,Swift,0.0,73.81,66.86
+125,30915830409,5,15, HP,, % Tx. crit, % HP, % ATK, % Accuracy,Legend,6,Violent,50.0,72.01,66.81
+126,39051399467,6,15, % ATK, HP, % Tx. crit, ATK, % HP, VIT,Héroïque,6,Rage,62.22,65.05,66.77
+127,36581338552,1,12, ATK, VIT, % Tx. crit, % Dmg crit, % ATK, % Accuracy,Héroïque,6,Swift,50.0,70.36,66.76
+128,41735550169,1,12, ATK, % Res, % HP, % Accuracy, % Tx. crit, % ATK,Legend,6,Violent,0.0,73.7,66.76
+129,31209668042,5,12, HP,, % Res, VIT, % Dmg crit, % Tx. crit,Legend,6,Despair,0.0,73.52,66.6
+130,42252342963,2,12, % DEF, % Accuracy, ATK, VIT, % ATK, % Res,Legend,6,Combat,0.0,73.52,66.6
+131,36295668525,6,15, % ATK,, VIT, ATK, HP, % Tx. crit,Héroïque,6,Fatale,62.94,65.02,66.6
+132,37374576331,3,12, DEF, % DEF, VIT, % Accuracy, % Dmg crit, HP,A Legend,15,Will,0.0,73.5,66.58
+133,37136275094,5,12, HP,, % Tx. crit, VIT, % DEF, DEF,Legend,6,Determination,64.44,65.21,66.56
+134,40348692245,5,15, HP,, % Accuracy, % Tx. crit, VIT, % DEF,Legend,6,Violent,0.0,73.44,66.53
+135,27170139480,4,15, % DEF,, % Accuracy, HP, VIT, % HP,Héroïque,6,Despair,61.69,66.25,66.51
+136,28050809276,2,12, % HP, % ATK, % Dmg crit, % Accuracy, VIT, ATK,Legend,6,Swift,0.0,73.4,66.49
+137,37287677769,3,12, DEF,, VIT, % HP, HP, % DEF,Legend,6,Violent,0.0,73.39,66.49
+138,36334180304,4,15, % ATK,, % HP, VIT, % Res, % DEF,Héroïque,6,Fatale,63.33,66.71,66.47
+139,39134842824,6,12, % HP, % Accuracy, VIT, % Res, DEF, HP,Legend,6,Proctection,0.0,73.36,66.46
+140,28556774344,5,12, HP, % Tx. crit, % Dmg crit, VIT, % DEF, % HP,Héroïque,6,Endurance,60.0,67.07,66.45
+141,37357556208,5,12, HP, ATK, % HP, % Dmg crit, % ATK, % Accuracy,Héroïque,6,Nemesis,0.0,73.32,66.42
+142,27889684372,5,12, HP, ATK, % Dmg crit, DEF, % ATK, % HP,Legend,6,Swift,0.0,73.27,66.38
+143,29123177590,5,12, HP, DEF, % Accuracy, ATK, % HP, VIT,Legend,5,Proctection,0.0,73.27,66.38
+144,37136351110,6,15, % Accuracy, HP, VIT, DEF, % Tx. crit, % ATK,A Héroïqie,16,Vampire,0.0,73.25,66.35
+145,31592351420,6,15, % ATK, % HP, HP, ATK, % Tx. crit, % Accuracy,Legend,6,Nemesis,62.03,66.88,66.25
+146,40742457148,6,15, % ATK,, % HP, % Dmg crit, VIT, % Accuracy,A Legend,16,Swift,0.0,73.11,66.23
+147,27206882656,5,15, HP, % Res, % HP, DEF, VIT, % Dmg crit,Héroïque,5,Energy,60.0,72.17,66.2
+148,37466107970,2,15, % ATK, % DEF, VIT, % Dmg crit, % HP, % Tx. crit,Héroïque,6,Endurance,60.0,68.77,66.11
+149,40595297460,1,12, ATK, % HP, % Res, % ATK, % Tx. crit, % Dmg crit,Legend,6,Violent,0.0,72.86,66.01
+150,40728390351,1,12, ATK, % Res, VIT, % ATK, % Accuracy, % Tx. crit,Legend,6,Nemesis,0.0,72.81,65.96
+151,36287986754,1,12, ATK, HP, % HP, % Dmg crit, VIT, % Tx. crit,Legend,6,Lame,0.0,72.78,65.93
+152,31699288821,2,15, % ATK, % DEF, % Accuracy, % Dmg crit, % Tx. crit, % HP,Héroïque,6,Vampire,90.0,66.49,65.88
+153,41915048496,1,12, ATK,, % Accuracy, % Dmg crit, % HP, % Tx. crit,Legend,6,Violent,0.0,72.69,65.85
+154,39220034746,3,12, DEF,, % HP, % Accuracy, % Dmg crit, VIT,Legend,6,Revenge,0.0,72.69,65.85
+155,37136290886,1,12, ATK,, VIT, % Dmg crit, % ATK, % HP,A Legend,16,Endurance,0.0,72.68,65.84
+156,36334030230,5,15, HP,, % Dmg crit, % Res, % ATK, % Tx. crit,Legend,6,Despair,50.0,71.07,65.82
+157,30943112145,5,12, HP, ATK, % Dmg crit, VIT, % ATK, % HP,Héroïque,6,Despair,56.66,66.3,65.81
+158,37287397989,1,12, ATK,, % Tx. crit, % ATK, % HP, % Res,Legend,6,Rage,55.0,66.12,65.81
+159,29153550836,4,15, % HP,, VIT, % DEF, % Accuracy, % Res,Legend,6,Revenge,40.0,71.46,65.79
+160,40599343482,3,12, DEF, % Dmg crit, HP, VIT, % Tx. crit, % HP,Legend,6,Gardian,0.0,72.57,65.74
+161,37026268397,4,12, % Tx. crit,, % DEF, % Dmg crit, % HP, % ATK,Legend,6,Determination,0.0,72.57,65.74
+162,41022998671,5,15, HP, % HP, % Dmg crit, % ATK, VIT, % Accuracy,Héroïque,6,Vampire,0.0,72.55,65.72
+163,38991341462,1,15, ATK,, % Accuracy, VIT, HP, % HP,Héroïque,6,Destruction,70.06,63.1,65.7
+164,37709261698,5,12, HP, DEF, VIT, % DEF, ATK, % HP,Héroïque,6,Revenge,0.0,72.46,65.64
+165,37501558004,1,15, ATK, % ATK, % Dmg crit, VIT, % HP, HP,Héroïque,6,Violent,62.96,62.08,65.59
+166,40658396905,4,15, % HP, ATK, % ATK, VIT, % Accuracy, DEF,Legend,6,Will,63.33,67.53,65.58
+167,38949524057,6,15, % HP, % Accuracy, % DEF, % Tx. crit, VIT, ATK,Héroïque,6,Destruction,70.0,67.3,65.56
+168,29258944989,3,15, DEF,, VIT, % HP, % Accuracy, % DEF,Héroïque,6,Violent,53.33,66.12,65.52
+169,39115795873,4,12, % ATK, HP, % DEF, % Accuracy, VIT, % Tx. crit,Legend,6,Revenge,0.0,72.3,65.5
+170,27019194313,6,15, % ATK, % Dmg crit, % Tx. crit, % Accuracy, VIT, % HP,Héroïque,5,Swift,0.0,72.29,65.49
+171,42337093427,3,15, DEF,, % Dmg crit, % Tx. crit, VIT, % DEF,Héroïque,6,Lame,70.0,65.66,65.41
+172,39093806398,1,12, ATK,, % Accuracy, % HP, % ATK, VIT,Legend,6,Gardian,0.0,72.18,65.39
+173,38975256961,2,12, % DEF, HP, VIT, % HP, DEF, % Res,Legend,6,Destruction,0.0,72.17,65.38
+174,27036259439,2,15, % ATK, % Dmg crit, ATK, HP, % Tx. crit, DEF,Legend,5,Lame,65.75,63.93,65.35
+175,27333531364,5,12, HP, % Res, % ATK, % Accuracy, % HP, % DEF,Legend,6,Energy,0.0,72.08,65.3
+176,37841381726,1,9, ATK, % Dmg crit, % Res, % HP, % ATK, % Accuracy,Legend,6,Endurance,0.0,72.08,65.3
+177,39252937275,4,12, % DEF,, % HP, % Dmg crit, % Tx. crit, % Res,Legend,6,Proctection,0.0,72.08,65.29
+178,27149699590,6,15, % DEF,, VIT, % Dmg crit, % Tx. crit, % HP,Legend,6,Violent,50.0,68.44,65.28
+179,36333626415,4,15, % DEF,, DEF, % Res, % Dmg crit, % Accuracy,Legend,6,Lame,70.0,67.61,65.27
+180,40997040162,5,15, HP, % Accuracy, % HP, VIT, DEF, % Dmg crit,Héroïque,6,Will,68.88,60.99,65.27
+181,30683017381,3,12, DEF, % DEF, VIT, % Tx. crit, % HP, % Accuracy,Legend,6,Violent,60.0,72.04,65.26
+182,37021446880,3,15, DEF,, % DEF, % HP, % Tx. crit, % Dmg crit,Legend,6,Determination,64.99,66.96,65.26
+183,39117015975,2,15, % HP, % Tx. crit, % ATK, % Dmg crit, % Res, VIT,Héroïque,6,Violent,0.0,72.0,65.23
+184,40741566963,6,15, % HP, % DEF, % Accuracy, VIT, % Res, ATK,Héroïque,6,Nemesis,0.0,72.0,65.22
+185,38976597546,4,15, % Dmg crit, % HP, VIT, % Res, % ATK, % DEF,Héroïque,6,Destruction,63.33,65.01,65.21
+186,29204829903,1,12, ATK, % Res, % Tx. crit, % Accuracy, % HP, % ATK,Legend,5,Violent,0.0,71.98,65.21
+187,26682210841,6,15, % ATK,, VIT, % Tx. crit, ATK, % Accuracy,Rare,6,Fatale,55.0,67.7,65.2
+188,37599465685,3,12, DEF, % HP, % Dmg crit, VIT, % Res, % Accuracy,Legend,6,Violent,0.0,71.96,65.19
+189,39411235362,4,15, % Tx. crit,, % ATK, % Accuracy, VIT, % HP,Legend,6,Revenge,0.0,71.93,65.16
+190,40352128603,5,12, HP,, % Tx. crit, ATK, % ATK, % Dmg crit,Legend,6,Focus,0.0,71.86,65.1
+191,38895488633,3,15, DEF,, % Accuracy, % Tx. crit, % Dmg crit, % HP,Legend,6,Vampire,70.0,68.77,65.06
+192,28567094918,3,15, DEF,, VIT, % DEF, % Accuracy, % HP,Héroïque,6,Violent,55.0,66.41,65.02
+193,31594031668,5,15, HP,, % Dmg crit, DEF, % Tx. crit, % ATK,Legend,6,Rage,71.66,67.74,65.01
+194,27994045640,1,15, ATK,, % Tx. crit, % HP, % ATK, HP,Héroïque,6,Vampire,73.87,57.14,64.99
+195,36794020865,5,15, HP, DEF, VIT, % HP, % Tx. crit, % Accuracy,Héroïque,6,Swift,50.0,72.45,64.98
+196,37407414740,5,12, HP, DEF, VIT, % Dmg crit, % HP, % ATK,Héroïque,6,Violent,0.0,71.7,64.95
+197,40629636112,3,12, DEF,, % DEF, % HP, % Accuracy, VIT,Legend,6,Endurance,0.0,71.63,64.89
+198,39068351858,4,15, % Dmg crit, VIT, % Tx. crit, % Accuracy, % DEF, % Res,Héroïque,6,Rage,50.0,71.15,64.85
+199,38965408468,5,15, HP,, VIT, % Tx. crit, % ATK, % DEF,Héroïque,6,Vampire,60.0,59.85,64.82
+200,40755954948,3,12, DEF, % Tx. crit, % Dmg crit, HP, % Accuracy, VIT,Legend,6,Will,0.0,71.49,64.76
+201,42208389083,5,12, HP, ATK, % Tx. crit, % DEF, % HP, % Dmg crit,Héroïque,6,Endurance,0.0,71.48,64.75
+202,37408465841,1,12, ATK,, % Dmg crit, % Accuracy, HP, % Tx. crit,Legend,6,Focus,0.0,71.43,64.71
+203,31745162439,5,15, HP, ATK, % HP, % Dmg crit, % ATK, VIT,Héroïque,6,Vampire,60.0,66.36,64.68
+204,38935403668,5,15, HP,, % ATK, % Tx. crit, VIT, % DEF,Héroïque,6,Rage,56.66,64.98,64.63
+205,41918613457,1,15, ATK, % Accuracy, VIT, % Tx. crit, % HP, % Dmg crit,Héroïque,6,Swift,60.0,71.47,64.61
+206,40955605819,5,12, HP, ATK, % DEF, % Dmg crit, % ATK, % HP,Legend,6,Nemesis,0.0,71.2,64.5
+207,28310237209,3,12, DEF,, % Dmg crit, % HP, % DEF, VIT,A Legend,16,Rage,0.0,71.16,64.46
+208,39221208801,1,12, ATK,, % Dmg crit, % HP, % Accuracy, % Tx. crit,Legend,6,Endurance,0.0,71.14,64.44
+209,27157996769,2,15, VIT, % DEF, % Accuracy, % Res, HP, % Dmg crit,Héroïque,6,Energy,79.63,63.11,64.42
+210,27318592843,1,15, ATK, % Res, VIT, HP, % HP, % ATK,Héroïque,6,Energy,0.0,71.09,64.41
+211,36783483495,2,15, VIT, % Accuracy, % Res, % ATK, % DEF, % HP,Legend,6,Swift,46.66,69.92,64.39
+212,36078704560,3,15, DEF,, % Tx. crit, % HP, % Dmg crit, VIT,Legend,6,Rage,55.0,68.48,64.38
+213,30915761017,5,15, HP, % Res, VIT, % Tx. crit, % Accuracy, % ATK,Héroïque,6,Violent,50.0,69.71,64.33
+214,27561432035,4,12, % ATK, % DEF, % Dmg crit, % Accuracy, % Res, % HP,Héroïque,6,Energy,0.0,71.01,64.32
+215,39173703614,5,15, HP, ATK, VIT, % HP, % Accuracy, % Res,Héroïque,6,Violent,60.0,66.64,64.31
+216,39068763004,5,15, HP, % Res, % Dmg crit, % ATK, % Accuracy, % HP,Héroïque,6,Will,70.0,65.86,64.26
+217,41061031228,6,15, % ATK,, % HP, % Tx. crit, % Accuracy, VIT,Legend,6,Violent,30.0,70.2,64.25
+218,30925026725,5,15, HP,, % ATK, % HP, VIT, % DEF,Legend,6,Violent,36.66,68.73,64.23
+219,37987366635,2,15, VIT,, % DEF, % ATK, % HP, % Dmg crit,Legend,6,Violent,60.0,65.94,64.2
+220,37203431706,3,15, DEF,, % Dmg crit, % Accuracy, % Tx. crit, % DEF,Héroïque,6,Vampire,70.0,66.05,64.17
+221,38689642488,6,15, % ATK,, ATK, VIT, % Tx. crit, % Dmg crit,Héroïque,6,Vampire,63.33,63.61,64.16
+222,28687213557,1,12, ATK, % HP, HP, VIT, % Res, % Accuracy,Legend,6,Focus,0.0,70.8,64.14
+223,40609592489,3,12, DEF,, % Accuracy, VIT, % Dmg crit, % HP,Legend,6,Violent,0.0,70.67,64.02
+224,38882304020,6,15, % HP, % Accuracy, % Dmg crit, % Tx. crit, % ATK, % DEF,Héroïque,6,Will,60.0,64.29,64.02
+225,37535402824,2,15, % ATK, DEF, % Accuracy, VIT, % HP, % Tx. crit,Legend,6,Will,80.0,66.17,64.02
+226,39545762750,4,15, % DEF, HP, VIT, % ATK, % Tx. crit, % Accuracy,Héroïque,6,Gardian,0.0,70.59,63.95
+227,28410150126,2,15, % ATK,, VIT, % Dmg crit, ATK, % DEF,Héroïque,6,Rage,65.55,60.64,63.94
+228,40351426267,3,12, DEF, VIT, % Dmg crit, % Tx. crit, % HP, % DEF,Legend,6,Proctection,0.0,70.52,63.89
+229,37650316278,4,15, % Dmg crit,, % ATK, % DEF, % Res, % HP,Legend,6,Will,63.33,61.32,63.82
+230,41735527838,3,12, DEF, % Dmg crit, % Tx. crit, HP, % HP, % DEF,Legend,6,Violent,0.0,70.45,63.82
+231,36681922673,5,12, HP,, % ATK, % Tx. crit, % Dmg crit, % DEF,Héroïque,6,Fatale,55.0,65.08,63.81
+232,36452069611,3,15, DEF,, % Accuracy, % Tx. crit, % HP, VIT,Héroïque,6,Despair,70.0,62.46,63.8
+233,38914275261,1,12, ATK, % Dmg crit, % Tx. crit, % Accuracy, VIT, % ATK,Héroïque,6,Will,0.0,70.42,63.79
+234,28519807443,2,15, % HP, VIT, % DEF, % ATK, % Res, DEF,Rare,6,Violent,66.66,60.08,63.78
+235,40667444130,2,15, % ATK, VIT, % HP, % DEF, DEF, % Tx. crit,Legend,6,Will,0.0,70.32,63.7
+236,36564883595,2,15, % ATK, DEF, % HP, % DEF, % Dmg crit, % Tx. crit,Legend,6,Swift,50.0,66.83,63.7
+237,30609729254,5,12, HP, % HP, % Tx. crit, % Dmg crit, % ATK, % DEF,Héroïque,6,Lame,70.0,65.45,63.62
+238,41727262230,3,15, DEF, % DEF, % HP, % Accuracy, VIT, % Dmg crit,Héroïque,6,Violent,0.0,70.23,63.62
+239,40782640979,5,12, HP, DEF, % Tx. crit, VIT, % Dmg crit, % ATK,Héroïque,6,Will,30.0,68.89,63.59
+240,37596914773,6,15, % HP, DEF, VIT, % Accuracy, % DEF, % Dmg crit,Héroïque,6,Violent,60.0,66.41,63.57
+241,38872237399,4,15, % Dmg crit,, VIT, % HP, % ATK, % Tx. crit,Héroïque,6,Vampire,53.33,66.58,63.56
+242,36463695499,4,14, % DEF,, % Res, % Accuracy, % Tx. crit, % ATK,Legend,6,Combat,0.0,70.16,63.56
+243,37465526401,6,15, % ATK,, % HP, VIT, % DEF, HP,Héroïque,6,Proctection,61.54,56.04,63.45
+244,38705991413,3,15, DEF, % DEF, VIT, % Tx. crit, % Accuracy, % HP,Héroïque,6,Will,60.0,70.12,63.39
+245,28153875017,1,12, ATK,, % Dmg crit, % Tx. crit, % Res, VIT,Legend,6,Tolerance,80.0,66.89,63.37
+246,27119277332,2,15, % HP,, % Res, % Accuracy, HP, % DEF,Héroïque,6,Energy,0.0,69.95,63.36
+247,28487557942,4,12, % Tx. crit, VIT, % Accuracy, % Res, HP, ATK,Legend,6,Violent,0.0,69.88,63.31
+248,30947201190,3,15, DEF, HP, VIT, % Res, % Dmg crit, % DEF,Héroïque,6,Despair,64.99,64.91,63.27
+249,39208766698,4,15, % HP, DEF, VIT, % Dmg crit, % Tx. crit, % ATK,Héroïque,6,Revenge,60.0,68.25,63.26
+250,40352196724,5,12, HP, VIT, % Tx. crit, % DEF, % ATK, % HP,Héroïque,6,Violent,0.0,69.81,63.24
+251,28441688700,3,15, DEF,, VIT, % Res, % Accuracy, % HP,Héroïque,6,Focus,60.0,67.59,63.22
+252,30537943404,1,15, ATK, % Tx. crit, VIT, % Accuracy, % Dmg crit, % HP,Héroïque,6,Lame,55.0,68.0,63.19
+253,28753331594,5,12, HP,, % Accuracy, % ATK, ATK, VIT,Legend,5,Proctection,64.99,66.66,63.18
+254,27026716086,4,15, % Dmg crit, ATK, % ATK, % Accuracy, HP, VIT,Legend,6,Energy,75.0,65.1,63.18
+255,39158203612,6,15, % ATK, % Accuracy, % Tx. crit, % HP, ATK, % DEF,Legend,6,Violent,0.0,69.71,63.15
+256,31216329152,5,12, HP, % Accuracy, % Res, ATK, % Dmg crit, % DEF,Legend,6,Swift,0.0,69.66,63.1
+257,42076135157,1,12, ATK,, % Dmg crit, % Tx. crit, % Accuracy, % ATK,Legend,6,Revenge,0.0,69.64,63.09
+258,41627728699,5,12, HP, % ATK, ATK, % Res, VIT, % Accuracy,Héroïque,6,Nemesis,0.0,69.6,63.05
+259,36908146449,5,15, HP, ATK, % HP, % ATK, % Tx. crit, % Res,Héroïque,6,Fatale,55.0,68.55,63.02
+260,31115618036,1,12, ATK,, % Tx. crit, VIT, HP, % Accuracy,Legend,6,Combat,80.0,65.35,63.01
+261,29247887442,5,12, HP,, % Accuracy, % DEF, % HP, VIT,Legend,5,Lame,0.0,69.49,62.95
+262,27071237718,1,12, ATK, % Res, % Accuracy, VIT, % HP, % Tx. crit,Héroïque,6,Swift,0.0,69.35,62.82
+263,39170359061,3,15, DEF,, % Tx. crit, VIT, % Accuracy, % HP,Héroïque,6,Violent,50.0,66.29,62.81
+264,40593756147,5,12, HP, % Res, VIT, % DEF, ATK, % Accuracy,Legend,6,Focus,0.0,69.31,62.78
+265,39259347931,5,12, HP,, % ATK, % Tx. crit, VIT, DEF,Legend,6,Violent,0.0,69.27,62.75
+266,38953243132,5,12, HP, % Accuracy, % Dmg crit, % DEF, VIT, % HP,Legend,6,Rage,0.0,69.22,62.71
+267,40640351206,1,15, ATK,, % Res, VIT, % Tx. crit, % ATK,Legend,6,Endurance,0.0,69.19,62.68
+268,27241508919,5,15, HP,, VIT, % Tx. crit, % Res, % DEF,Legend,6,Despair,0.0,69.19,62.68
+269,38937660924,4,15, % Dmg crit, % HP, % DEF, VIT, % ATK, HP,Héroïque,6,Will,70.0,65.83,62.66
+270,30925026726,3,15, DEF,, % Res, VIT, % HP, HP,Legend,6,Violent,0.0,69.16,62.65
+271,28541479880,2,15, % ATK, % HP, % Tx. crit, % Dmg crit, % DEF, VIT,Rare,6,Endurance,80.0,64.34,62.62
+272,28729694724,1,15, ATK,, % Accuracy, % Dmg crit, % HP, % Tx. crit,Legend,6,Swift,0.0,69.07,62.57
+273,29295236402,2,15, VIT, % ATK, % Tx. crit, % Dmg crit, % Accuracy, % HP,Héroïque,6,Despair,60.0,66.17,62.57
+274,38912969510,6,15, HP,, % Tx. crit, VIT, DEF, % Res,Héroïque,6,Destruction,100.0,68.51,62.54
+275,39217776518,4,15, % HP, % Accuracy, % Dmg crit, % Tx. crit, % DEF, VIT,Legend,6,Revenge,60.0,67.43,62.54
+276,36342665242,1,15, ATK,, VIT, % Accuracy, % ATK, % HP,Héroïque,6,Despair,60.0,62.2,62.52
+277,40916133949,1,12, ATK,, % ATK, % Dmg crit, % Accuracy, % Res,Legend,6,Will,0.0,69.01,62.51
+278,28789039898,5,15, HP,, % Accuracy, % HP, VIT, % DEF,Héroïque,6,Focus,63.33,62.33,62.47
+279,37598966823,3,12, DEF, VIT, % DEF, % Tx. crit, HP, % Dmg crit,Legend,6,Revenge,0.0,68.96,62.47
+280,36680440138,1,12, ATK,, % Res, VIT, % Tx. crit, % HP,Héroïque,6,Swift,70.0,65.53,62.45
+281,28464175505,4,12, % DEF,, ATK, DEF, % ATK, VIT,Legend,6,Focus,0.0,68.88,62.4
+282,27966258214,5,15, HP,, % HP, % DEF, % Accuracy, ATK,Héroïque,6,Swift,55.0,65.84,62.4
+283,29481683036,5,15, HP, DEF, % ATK, % HP, % Tx. crit, % Dmg crit,Héroïque,6,Swift,40.0,69.12,62.35
+284,36332085015,1,15, ATK, % Dmg crit, % Tx. crit, % ATK, % Accuracy, HP,Héroïque,6,Fatale,70.0,66.92,62.33
+285,37357858802,3,15, DEF,, % HP, % DEF, VIT, % Res,Héroïque,6,Will,53.33,65.74,62.32
+286,28269935750,3,12, DEF, % HP, % DEF, VIT, % Res, HP,Héroïque,6,Gardian,0.0,68.73,62.26
+287,28401322801,3,15, DEF, HP, % HP, % Accuracy, % DEF, % Tx. crit,Héroïque,6,Gardian,60.0,64.02,62.2
+288,40329598412,5,12, HP,, VIT, % Res, DEF, ATK,Legend,6,Proctection,0.0,68.61,62.16
+289,39262921972,2,12, VIT,, % ATK, DEF, % Dmg crit, % HP,Legend,6,Revenge,0.0,68.6,62.14
+290,36021723269,3,15, DEF, VIT, HP, % Tx. crit, % Dmg crit, % DEF,Héroïque,6,Will,47.27,63.38,62.14
+291,27993564925,3,12, DEF,, % HP, HP, % Res, VIT,Legend,6,Lame,0.0,68.59,62.14
+292,28093884751,1,12, ATK, HP, % Accuracy, % Tx. crit, % Dmg crit, % HP,Legend,6,Endurance,0.0,68.53,62.08
+293,27065904347,4,15, % HP,, % Dmg crit, % ATK, % Tx. crit, % DEF,Héroïque,6,Swift,60.0,64.45,62.06
+294,41919851782,3,9, DEF, VIT, % DEF, % Tx. crit, % Res,,Héroïque,6,Swift,0.0,68.5,62.05
+295,38962209294,4,12, % Tx. crit,, % Dmg crit, % DEF, % HP, % Accuracy,Legend,6,Vampire,0.0,68.48,62.03
+296,28441667241,3,12, DEF, HP, VIT, % DEF, % Dmg crit, % Accuracy,Legend,6,Proctection,60.0,67.41,62.03
+297,28294072877,1,15, ATK, % Accuracy, % Tx. crit, % Dmg crit, % ATK, VIT,Héroïque,5,Revenge,55.0,61.46,62.03
+298,27010041822,1,12, ATK,, % Accuracy, VIT, % Res, % HP,Legend,5,Swift,0.0,68.47,62.02
+299,28904643321,3,15, DEF,, % Dmg crit, % Tx. crit, % Accuracy, VIT,Legend,6,Revenge,60.0,66.81,61.95
+300,29014268266,2,15, VIT, % Dmg crit, % DEF, % Tx. crit, % ATK, ATK,Rare,6,Violent,55.0,62.92,61.86
+301,37825000844,2,15, % ATK, % Tx. crit, % HP, % DEF, % Dmg crit, % Res,Legend,6,Violent,50.0,65.04,61.81
+302,40781760359,2,15, VIT,, % Tx. crit, % ATK, % HP, % Dmg crit,Legend,6,Will,60.0,68.22,61.8
+303,37465564117,4,9, % DEF, % ATK, % HP, VIT, DEF, % Res,Legend,6,Focus,0.0,68.18,61.77
+304,40597989433,1,15, ATK,, VIT, % ATK, % HP, HP,Legend,6,Focus,0.0,68.17,61.76
+305,36583493005,4,15, % DEF,, % Accuracy, % ATK, ATK, VIT,Legend,6,Energy,66.66,59.78,61.71
+306,37374603982,3,12, DEF,, % Accuracy, % Tx. crit, HP, VIT,A Legend,16,Will,0.0,68.1,61.69
+307,29520361292,5,15, HP, % DEF, % ATK, % Tx. crit, % HP, % Res,Héroïque,6,Lame,0.0,68.08,61.68
+308,41628240713,3,15, DEF, % Dmg crit, VIT, % Tx. crit, % HP, % Accuracy,Héroïque,6,Nemesis,0.0,68.07,61.67
+309,40992613662,4,15, % HP,, DEF, VIT, % Res, % DEF,Legend,6,Will,40.0,67.2,61.67
+310,40614928048,6,15, % Res, % HP, VIT, HP, % ATK, % Dmg crit,Héroïque,6,Gardian,0.0,68.07,61.66
+311,29179963491,1,15, ATK,, % Tx. crit, % Accuracy, % ATK, VIT,Héroïque,6,Violent,80.0,63.8,61.61
+312,38934604508,3,12, DEF, % Tx. crit, % Accuracy, % Res, % DEF, HP,Héroïque,6,Rage,0.0,67.99,61.59
+313,37026240698,3,12, DEF,, % Tx. crit, HP, % HP, % DEF,Legend,6,Determination,0.0,67.96,61.56
+314,37499799198,4,12, DEF, % Res, % Accuracy, % Tx. crit, VIT, % DEF,Héroïque,6,Violent,0.0,67.96,61.56
+315,36266664938,3,12, DEF, % Accuracy, % HP, VIT, % Res, HP,Héroïque,6,Swift,0.0,67.87,61.49
+316,40669072214,1,15, ATK, % Res, % Tx. crit, % HP, VIT, HP,Héroïque,6,Will,75.0,62.55,61.44
+317,29604033955,2,15, % ATK,, % Accuracy, % Tx. crit, ATK, % DEF,Legend,6,Swift,0.0,67.81,61.43
+318,36051825082,6,15, % HP, % ATK, % Res, % Tx. crit, DEF, % DEF,Héroïque,6,Will,30.0,66.49,61.42
+319,28553554762,5,12, HP,, % Tx. crit, DEF, % ATK, % HP,Legend,6,Revenge,45.0,69.67,61.4
+320,36506911863,5,12, HP, % Tx. crit, % Accuracy, DEF, % Dmg crit, % DEF,Legend,6,Swift,0.0,67.77,61.39
+321,40594758547,2,15, % ATK,, ATK, % Accuracy, % Tx. crit, VIT,Legend,6,Revenge,0.0,67.76,61.39
+322,40682227698,3,12, DEF,, VIT, % Tx. crit, HP, % Res,Legend,6,Violent,0.0,67.76,61.38
+323,29166315466,2,15, % ATK, % DEF, VIT, % Tx. crit, % HP, ATK,Héroïque,6,Endurance,0.0,67.74,61.36
+324,38766982450,4,12, % Dmg crit, % Accuracy, % Res, % Tx. crit, % HP, DEF,Legend,6,Combat,0.0,67.71,61.34
+325,29086226257,6,15, % ATK,, HP, % Dmg crit, % Tx. crit, VIT,Legend,5,Will,0.0,67.66,61.29
+326,30947409492,1,15, ATK,, % ATK, % Tx. crit, VIT, % HP,Legend,6,Fatale,46.66,66.41,61.29
+327,28293276749,5,15, HP, % Accuracy, % HP, % Dmg crit, % Tx. crit, % DEF,Héroïque,6,Violent,50.0,60.68,61.27
+328,36565480715,1,12, ATK, % Res, % Dmg crit, % Tx. crit, % HP, HP,Héroïque,6,Lame,0.0,67.62,61.26
+329,38823785430,4,9, % Dmg crit, % Accuracy, VIT, DEF, % HP, % DEF,Legend,6,Amelio,0.0,67.59,61.23
+330,38945415317,5,15, HP,, % DEF, % Res, VIT, ATK,Héroïque,6,Destruction,62.22,58.89,61.22
+331,27291165600,3,12, DEF,, VIT, % HP, % Tx. crit, % Accuracy,Héroïque,6,Fatale,50.0,65.06,61.18
+332,28889572022,4,12, % Dmg crit, DEF, % ATK, % DEF, VIT, HP,Legend,6,Proctection,0.0,67.53,61.17
+333,41664829257,3,15, DEF, % Accuracy, % HP, % Dmg crit, % DEF, VIT,Héroïque,6,Rage,0.0,67.49,61.14
+334,42252342959,3,9, DEF, VIT, % Res, % HP, % Dmg crit, HP,Legend,5,Combat,0.0,67.49,61.14
+335,36249490917,5,12, HP, % ATK, % Tx. crit, % Accuracy, % DEF, % HP,Héroïque,5,Determination,55.0,65.63,61.07
+336,38975281919,2,15, VIT,, % Accuracy, % HP, % Tx. crit, HP,Héroïque,6,Will,53.27,62.92,61.04
+337,36792198186,3,12, DEF, % HP, VIT, % DEF, % Accuracy, % Dmg crit,Héroïque,6,Swift,0.0,67.37,61.03
+338,30987174802,5,15, HP,, % Tx. crit, % Res, % Dmg crit, % DEF,Legend,6,Swift,0.0,67.35,61.01
+339,28552774412,2,15, % ATK,, % Tx. crit, % HP, % Accuracy, HP,Rare,6,Revenge,69.36,55.84,60.97
+340,42114935957,3,15, DEF, % DEF, % Accuracy, VIT, % HP, % Res,Héroïque,6,Violent,0.0,67.28,60.95
+341,39200165117,4,15, % HP,, % Tx. crit, % DEF, % Res, DEF,Legend,6,Endurance,50.0,67.43,60.95
+342,40330552379,2,12, % ATK,, % HP, % Tx. crit, HP, VIT,Legend,6,Revenge,0.0,67.28,60.95
+343,29284679211,2,15, VIT, HP, DEF, % Tx. crit, % Accuracy, % DEF,Héroïque,6,Lame,0.0,67.14,60.82
+344,36446723597,1,12, ATK,, % Tx. crit, % Dmg crit, HP, VIT,Legend,6,Fatale,0.0,67.12,60.81
+345,37642213332,3,12, DEF,, VIT, % HP, % Tx. crit, % Dmg crit,Héroïque,6,Will,0.0,67.11,60.8
+346,27120221990,5,12, HP, DEF, % Accuracy, % Res, % HP, % DEF,Legend,5,Energy,0.0,67.11,60.8
+347,38953744868,1,15, ATK, HP, % HP, % ATK, % Tx. crit, % Res,Héroïque,6,Rage,55.0,65.21,60.78
+348,38895356672,6,15, % DEF, % Accuracy, % Dmg crit, % HP, % Tx. crit, HP,Héroïque,6,Nemesis,0.0,67.09,60.78
+349,41059742478,1,15, ATK,, VIT, % Res, HP, % ATK,Héroïque,6,Revenge,0.0,67.07,60.76
+350,27973476208,6,15, % DEF,, % Accuracy, VIT, % Dmg crit, DEF,Legend,6,Vampire,73.33,62.29,60.75
+351,36972715059,1,12, ATK,, HP, % Tx. crit, % HP, % ATK,Legend,6,Amelio,0.0,66.97,60.67
+352,39235406201,3,12, DEF,, % DEF, HP, % Tx. crit, VIT,Legend,6,Endurance,0.0,66.97,60.67
+353,30926283879,5,12, HP, ATK, % Accuracy, % ATK, % Dmg crit, % Res,Héroïque,6,Fatale,0.0,66.97,60.66
+354,37210477299,3,12, DEF,, % Tx. crit, % DEF, HP, VIT,Legend,6,Determination,0.0,66.88,60.59
+355,36565252820,3,12, DEF,, % HP, HP, VIT, % Res,Legend,6,Swift,40.0,64.22,60.54
+356,38896944811,6,9, % HP, % Accuracy, VIT, % DEF, % Dmg crit,,Héroïque,6,Destruction,0.0,66.82,60.53
+357,39158415317,5,12, HP,, VIT, DEF, % ATK, % Accuracy,Legend,6,Proctection,0.0,66.8,60.52
+358,30943001753,4,15, % Dmg crit,, ATK, % ATK, % Tx. crit, VIT,Héroïque,6,Lame,68.88,56.01,60.48
+359,39068238455,3,15, DEF,, % Accuracy, HP, VIT, % DEF,Legend,6,Will,49.15,61.83,60.47
+360,42154237635,3,15, DEF,, % Tx. crit, VIT, % DEF, % Res,Héroïque,6,Energy,0.0,66.75,60.47
+361,37535505081,3,12, DEF, HP, % Tx. crit, VIT, % DEF, % Res,Héroïque,6,Focus,30.0,65.15,60.47
+362,40627563867,3,15, DEF, % Accuracy, VIT, % Dmg crit, % Res, % HP,Héroïque,6,Violent,0.0,66.67,60.4
+363,29280628425,1,12, ATK,, % ATK, VIT, % Dmg crit, % Tx. crit,Héroïque,6,Fatale,55.0,63.73,60.35
+364,39250707773,3,15, DEF, % HP, % Accuracy, % Res, % Tx. crit, VIT,Héroïque,6,Violent,0.0,66.61,60.34
+365,39232097598,4,9, % DEF, % Res, VIT, % Tx. crit, % ATK,,Héroïque,6,Endurance,0.0,66.61,60.34
+366,28279830260,5,12, HP, VIT, % ATK, % Accuracy, % Dmg crit, % DEF,Legend,6,Violent,0.0,66.6,60.34
+367,28068301530,1,15, ATK,, % Dmg crit, % Tx. crit, VIT, % HP,Héroïque,6,Revenge,60.0,62.38,60.32
+368,36297266587,4,15, % HP,, VIT, % Accuracy, % DEF, % Tx. crit,Héroïque,6,Energy,60.0,61.19,60.29
+369,27150519804,4,15, % Dmg crit,, % Tx. crit, % DEF, % HP, VIT,Héroïque,6,Lame,60.0,59.13,60.26
+370,29254874482,1,12, ATK,, % Tx. crit, VIT, % ATK, % HP,Rare,6,Lame,56.66,56.69,60.25
+371,36333488666,3,15, DEF, % Tx. crit, VIT, % DEF, % Accuracy, HP,Legend,6,Energy,60.0,67.94,60.24
+372,36021751924,4,15, % ATK,, % DEF, % HP, % Accuracy, ATK,Héroïque,6,Will,60.0,57.5,60.16
+373,38940605874,1,15, ATK, HP, % Accuracy, % HP, VIT, % Tx. crit,Héroïque,6,Will,0.0,66.36,60.11
+374,30915876614,2,15, % HP,, VIT, % DEF, % Tx. crit, HP,Legend,6,Violent,50.54,65.89,60.06
+375,30980776002,1,15, ATK,, % Accuracy, % Tx. crit, % Dmg crit, % ATK,Héroïque,6,Energy,40.0,64.56,60.06
+376,40728036050,2,15, VIT, % Tx. crit, HP, % Res, % DEF, % HP,Héroïque,6,Will,0.0,66.27,60.04
+377,38996257470,4,12, % DEF, DEF, VIT, % Dmg crit, % Tx. crit, % HP,Héroïque,6,Will,0.0,66.26,60.03
+378,41991864429,5,15, HP,, % Dmg crit, VIT, % ATK, % Tx. crit,Legend,6,Lame,0.0,66.25,60.02
+379,39047047524,2,15, VIT,, % Tx. crit, % Res, % HP, % Dmg crit,Héroïque,6,Will,0.0,66.21,59.98
+380,36420136068,3,12, DEF, % HP, VIT, % Dmg crit, % DEF, HP,Héroïque,6,Despair,55.0,62.16,59.98
+381,37828165210,3,12, DEF, % Res, % DEF, VIT, HP, % Tx. crit,Héroïque,6,Gardian,80.0,66.3,59.97
+382,28552774416,6,15, % ATK,, VIT, % Tx. crit, % HP, % Dmg crit,Rare,6,Vampire,55.0,59.87,59.96
+383,36370059233,1,12, ATK,, VIT, % Dmg crit, % Accuracy, % HP,Héroïque,6,Despair,64.99,59.81,59.95
+384,28292619431,2,12, VIT,, HP, % ATK, ATK, DEF,Legend,6,Proctection,0.0,66.12,59.9
+385,28556145197,4,15, % HP,, % Accuracy, HP, % DEF, VIT,Héroïque,6,Violent,52.27,57.79,59.87
+386,41030912375,4,15, % HP,, % ATK, % Accuracy, % Tx. crit, DEF,Héroïque,6,Will,0.0,66.06,59.85
+387,30979140385,1,12, ATK,, % HP, % Tx. crit, % Dmg crit, % Res,Legend,6,Proctection,50.0,65.61,59.83
+388,27930503401,4,15, % Dmg crit, % ATK, % Accuracy, VIT, HP, % Tx. crit,Legend,6,Swift,0.0,65.98,59.78
+389,37209300441,2,15, % ATK, % Accuracy, % Tx. crit, VIT, DEF, % Dmg crit,Héroïque,6,Will,80.0,62.35,59.77
+390,37286384692,3,15, DEF, % Res, VIT, % HP, % DEF, % Accuracy,Héroïque,6,Will,0.0,65.97,59.76
+391,36732133704,3,12, DEF, % Res, % Accuracy, HP, VIT, % Dmg crit,Héroïque,6,Determination,60.0,67.82,59.75
+392,38928283576,1,12, ATK,, % Tx. crit, % HP, % Res, % ATK,Legend,6,Vampire,0.0,65.95,59.74
+393,28240621929,3,12, DEF, % Tx. crit, % HP, VIT, % Res, % DEF,Héroïque,6,Endurance,0.0,65.84,59.65
+394,28861005408,5,12, HP, % ATK, DEF, % Tx. crit, % Accuracy, % DEF,Legend,6,Endurance,0.0,65.78,59.59
+395,40593156771,1,15, ATK, VIT, % Accuracy, % ATK, % HP, HP,Héroïque,6,Revenge,0.0,65.76,59.57
+396,39117043127,1,9, ATK, VIT, % Tx. crit, % ATK, % Accuracy,,Héroïque,6,Endurance,0.0,65.76,59.57
+397,36058630624,6,15, % ATK,, % Dmg crit, % HP, % DEF, % Tx. crit,Legend,6,Rage,35.0,65.57,59.53
+398,40687391068,4,15, % HP, % DEF, % Accuracy, VIT, % ATK, HP,Héroïque,6,Will,0.0,65.7,59.52
+399,27937414565,3,12, DEF, % DEF, % Tx. crit, % Res, % Dmg crit, HP,Rare,6,Violent,57.81,60.95,59.48
+400,29613056804,5,12, HP, % Res, % Tx. crit, VIT, % ATK, % HP,Legend,6,Swift,0.0,65.66,59.48
+401,36569440642,4,15, % Dmg crit,, VIT, % HP, % Accuracy, % Tx. crit,Héroïque,6,Despair,0.0,65.65,59.48
+402,29529055675,1,12, ATK,, % Tx. crit, % Accuracy, % Dmg crit, VIT,Héroïque,6,Revenge,60.0,62.33,59.45
+403,30896856308,2,15, VIT,, % Dmg crit, ATK, % DEF, % Accuracy,Héroïque,6,Violent,60.0,61.85,59.45
+404,37499982854,2,9, % HP, % Accuracy, % Dmg crit, VIT, HP, DEF,Legend,6,Gardian,0.0,65.51,59.34
+405,39061439489,6,15, % ATK,, % Accuracy, VIT, % HP, % DEF,Héroïque,6,Vampire,60.0,57.07,59.32
+406,38934668736,6,15, % HP, ATK, % DEF, % ATK, VIT, HP,Héroïque,6,Will,52.95,54.07,59.31
+407,27980907329,2,15, VIT, % Res, % Dmg crit, % Tx. crit, % ATK, % Accuracy,Héroïque,5,Lame,0.0,65.41,59.26
+408,41009346664,1,12, ATK,, % ATK, % Res, % Accuracy, % Tx. crit,Legend,6,Gardian,0.0,65.4,59.25
+409,27265040787,5,12, HP, ATK, % Res, % Accuracy, % HP, DEF,Héroïque,6,Swift,63.33,60.44,59.24
+410,30766571831,4,15, % Dmg crit, VIT, % ATK, % DEF, % Tx. crit, DEF,Héroïque,6,Swift,60.0,65.05,59.19
+411,30915734915,1,15, ATK,, % HP, % Dmg crit, % Tx. crit, % ATK,Héroïque,6,Violent,45.0,63.73,59.18
+412,29604465250,5,15, HP, % ATK, VIT, % DEF, % Dmg crit, % Tx. crit,Rare,6,Swift,40.0,63.58,59.17
+413,38945455363,6,15, % ATK,, % HP, % DEF, % Dmg crit, % Tx. crit,Héroïque,6,Will,55.0,60.22,59.15
+414,38952910082,5,9, HP,, % Tx. crit, % ATK, % Dmg crit, VIT,Legend,6,Destruction,0.0,65.29,59.15
+415,41614454751,2,12, VIT, ATK, HP, % DEF, % Dmg crit, % ATK,Legend,6,Proctection,0.0,65.22,59.08
+416,27938932530,3,15, DEF, % HP, % Tx. crit, % Dmg crit, VIT, % DEF,Héroïque,6,Lame,65.0,59.66,59.07
+417,27938810322,2,15, VIT,, % Res, % HP, % Accuracy, % DEF,Legend,5,Energy,0.0,65.16,59.03
+418,37203951312,3,12, DEF, % Dmg crit, % DEF, VIT, % Res, HP,Héroïque,6,Rage,0.0,65.13,59.0
+419,26682210838,4,15, % Dmg crit,, % Tx. crit, % Accuracy, % HP, % ATK,Rare,6,Fatale,64.99,55.68,58.98
+420,26864174245,6,15, % HP,, VIT, % ATK, % Accuracy, DEF,Legend,5,Violent,50.0,61.95,58.92
+421,37844856469,4,12, % ATK, HP, % DEF, ATK, % HP, % Res,Legend,6,Revenge,0.0,65.03,58.91
+422,38888122048,3,12, DEF, % Accuracy, % HP, % Tx. crit, VIT, % Res,Héroïque,6,Will,0.0,64.98,58.87
+423,38908432503,3,15, DEF, % Res, % DEF, % Accuracy, % Tx. crit, VIT,Héroïque,6,Rage,40.0,62.65,58.86
+424,29506837086,3,12, DEF, % DEF, VIT, % Tx. crit, % Dmg crit, % Res,Rare,6,Combat,0.0,64.95,58.84
+425,36280771456,2,15, VIT,, % DEF, % HP, % Res, % ATK,Héroïque,6,Swift,50.0,58.71,58.83
+426,39021167703,6,15, % DEF, % Accuracy, % ATK, % Dmg crit, % HP, % Res,Héroïque,6,Will,0.0,64.9,58.8
+427,31701118786,5,12, HP, % HP, % Accuracy, % Dmg crit, % DEF, % Tx. crit,Legend,6,Will,0.0,64.9,58.79
+428,39291619987,3,9, DEF, % Accuracy, % Dmg crit, % HP, % DEF, % Tx. crit,Legend,6,Proctection,0.0,64.83,58.73
+429,28844163729,3,12, DEF, % DEF, HP, % Accuracy, % Dmg crit, VIT,Legend,6,Violent,0.0,64.83,58.73
+430,31208959614,4,15, % HP, % DEF, VIT, HP, ATK, % Tx. crit,Héroïque,6,Lame,60.0,64.97,58.72
+431,40639123552,5,15, HP,, VIT, % HP, % Accuracy, % DEF,Héroïque,6,Violent,30.0,63.8,58.72
+432,38885057460,3,9, DEF, HP, % Accuracy, % Tx. crit, % HP,,Héroïque,6,Nemesis,0.0,64.77,58.68
+433,28186488385,6,15, % DEF, % Accuracy, DEF, % HP, % Res, VIT,Héroïque,6,Despair,0.0,64.76,58.67
+434,27890018827,3,12, DEF,, % DEF, VIT, % Res, % HP,Héroïque,6,Swift,50.0,58.37,58.66
+435,36249447099,5,12, HP,, % ATK, % HP, VIT, % Tx. crit,Legend,6,Swift,0.0,64.73,58.64
+436,30979500220,3,15, DEF,, VIT, % Dmg crit, % Tx. crit, % Accuracy,Héroïque,6,Swift,0.0,64.71,58.62
+437,27177453832,4,15, % HP,, VIT, % ATK, % Tx. crit, % Accuracy,Héroïque,6,Violent,55.0,62.92,58.62
+438,30950061752,6,15, % ATK,, % Dmg crit, % HP, ATK, % Accuracy,Héroïque,6,Fatale,41.66,59.0,58.59
+439,40755810574,3,9, DEF, % Tx. crit, % DEF, VIT, HP,,Héroïque,6,Destruction,0.0,64.67,58.58
+440,37473052820,2,15, VIT,, % DEF, DEF, % Accuracy, % Dmg crit,Héroïque,6,Endurance,0.0,64.66,58.58
+441,28382059124,5,15, HP, % DEF, % HP, VIT, % Tx. crit, DEF,Héroïque,6,Gardian,70.0,61.03,58.57
+442,39121279541,2,15, VIT,, % HP, % DEF, % Tx. crit, % Res,Héroïque,6,Violent,55.0,63.63,58.57
+443,41804875153,6,12, % HP,, % Accuracy, VIT, % DEF, % ATK,Legend,6,Revenge,0.0,64.64,58.56
+444,40781859169,2,15, % ATK,, % Tx. crit, % Dmg crit, % HP, VIT,Héroïque,6,Nemesis,75.0,58.53,58.53
+445,39060124100,5,12, HP,, % Dmg crit, % HP, % Accuracy, % Res,Legend,6,Nemesis,0.0,64.56,58.49
+446,41917272969,5,15, HP,, % HP, % Res, VIT, % Accuracy,Héroïque,6,Energy,0.0,64.52,58.45
+447,40628531747,4,15, % DEF, HP, % HP, VIT, % Tx. crit, ATK,Héroïque,6,Gardian,0.0,64.51,58.44
+448,26777504260,2,15, % ATK,, VIT, % Tx. crit, % Dmg crit, ATK,Héroïque,5,Fatale,0.0,64.5,58.43
+449,37592389389,2,9, % DEF, DEF, % Accuracy, % Res, % Dmg crit,,Héroïque,6,Gardian,0.0,64.49,58.42
+450,29281019934,6,15, % ATK, HP, % Tx. crit, % HP, % DEF, VIT,Rare,6,Swift,35.0,63.47,58.41
+451,38928344808,5,9, HP, VIT, % Res, % HP, % ATK, % Accuracy,Legend,6,Destruction,0.0,64.42,58.36
+452,39159271112,1,12, ATK, HP, % ATK, % HP, % Tx. crit, % Accuracy,Héroïque,6,Violent,60.0,64.4,58.34
+453,40595299265,6,15, % ATK,, % Tx. crit, % Dmg crit, VIT, ATK,Héroïque,6,Violent,0.0,64.33,58.27
+454,36362915561,2,15, VIT, % HP, % Accuracy, % ATK, % DEF, DEF,Héroïque,6,Energy,55.0,62.34,58.18
+455,40360864335,6,15, % HP,, VIT, % Res, % DEF, DEF,Legend,6,Endurance,0.0,64.2,58.16
+456,38884862833,3,9, DEF, % Dmg crit, % HP, % Tx. crit, VIT,,Héroïque,6,Will,0.0,64.16,58.12
+457,40585313881,4,9, % HP, HP, % Tx. crit, % ATK, DEF,,Héroïque,6,Proctection,0.0,64.15,58.11
+458,27304679579,1,12, ATK, % HP, VIT, % Tx. crit, % Dmg crit, % ATK,Héroïque,5,Swift,60.0,59.25,58.11
+459,37665653994,1,12, ATK, % Dmg crit, VIT, % HP, HP, % Accuracy,Héroïque,6,Proctection,80.0,64.21,58.08
+460,41064723369,3,9, DEF, % HP, % Tx. crit, % DEF, % Dmg crit,,Héroïque,6,Focus,0.0,64.06,58.03
+461,30925026724,3,12, DEF, % Dmg crit, % Accuracy, % HP, VIT, % Res,Legend,6,Violent,0.0,64.04,58.02
+462,35971352110,1,12, ATK,, VIT, % Dmg crit, % Accuracy, HP,Héroïque,6,Combat,33.63,62.19,57.99
+463,41934066840,5,12, HP,, VIT, % HP, ATK, % ATK,Legend,6,Amelio,0.0,63.94,57.92
+464,30915739412,5,12, HP,, % Tx. crit, VIT, % Res, % ATK,Legend,5,Violent,0.0,63.91,57.9
+465,36446758042,5,12, HP,, % ATK, % Accuracy, % Dmg crit, % Res,Legend,6,Lame,0.0,63.86,57.85
+466,38996200230,3,12, DEF,, % Dmg crit, % DEF, % HP, % Res,Héroïque,6,Nemesis,0.0,63.86,57.85
+467,28265854037,6,12, % HP,, VIT, % Tx. crit, % ATK, HP,Héroïque,5,Revenge,0.0,63.82,57.82
+468,38935845633,4,9, % ATK, ATK, % Tx. crit, HP, % Dmg crit, % Res,Legend,6,Nemesis,0.0,63.78,57.77
+469,39222314033,5,15, HP,, % Tx. crit, DEF, % Dmg crit, % Accuracy,Héroïque,6,Revenge,0.0,63.74,57.75
+470,37585510271,1,15, ATK,, % Tx. crit, % Dmg crit, VIT, % ATK,Héroïque,6,Violent,0.0,63.69,57.7
+471,40595241309,6,12, % Res,, HP, % HP, % ATK, % Tx. crit,Legend,6,Violent,0.0,63.65,57.66
+472,36446691369,5,12, HP,, ATK, % HP, % DEF, % Res,Héroïque,6,Energy,30.0,64.03,57.61
+473,27294407714,6,15, % HP,, % Res, % DEF, % Accuracy, HP,Rare,6,Despair,71.63,54.21,57.59
+474,31140433095,5,9, HP, ATK, VIT, % Res, % ATK,,Héroïque,6,Vampire,0.0,63.49,57.52
+475,38895265133,3,12, DEF,, % DEF, VIT, % Accuracy, % HP,Héroïque,6,Will,60.0,61.57,57.47
+476,36043231761,5,15, HP, % Tx. crit, VIT, % DEF, % Dmg crit, % HP,Rare,6,Combat,49.99,57.91,57.43
+477,39049204353,4,12, % Tx. crit,, VIT, % ATK, % DEF, DEF,Héroïque,6,Will,0.0,63.39,57.43
+478,39252147174,4,15, % HP,, % Tx. crit, % DEF, VIT, % Res,Héroïque,6,Proctection,60.0,61.15,57.38
+479,40315665123,5,9, HP, % Accuracy, % Tx. crit, % ATK, % HP,,Héroïque,6,Endurance,0.0,63.16,57.22
+480,36294677700,5,12, HP,, % DEF, % ATK, VIT, ATK,Héroïque,6,Swift,0.0,63.12,57.18
+481,39128192062,2,15, % ATK,, VIT, DEF, % Dmg crit, % Res,Legend,6,Violent,0.0,63.09,57.16
+482,31208901622,3,9, DEF, VIT, % Accuracy, % Tx. crit, % Dmg crit,,Héroïque,6,Energy,0.0,63.05,57.12
+483,28572597697,1,15, ATK, % Accuracy, HP, VIT, % Dmg crit, % ATK,Héroïque,6,Violent,60.0,59.11,57.12
+484,27177453834,6,15, % HP,, VIT, % DEF, DEF, % Tx. crit,Héroïque,6,Violent,52.22,56.63,57.11
+485,39219327430,1,9, ATK, % Accuracy, VIT, % Dmg crit, % Tx. crit, HP,Legend,6,Focus,0.0,63.03,57.1
+486,40681217579,2,15, % HP, VIT, % DEF, % Res, % Accuracy, ATK,Héroïque,6,Vampire,0.0,63.02,57.09
+487,36060664374,4,15, % Dmg crit,, % ATK, DEF, % Tx. crit, % DEF,Rare,6,Will,54.44,56.21,57.09
+488,38927814625,4,15, % Dmg crit, % HP, % DEF, % Tx. crit, % ATK, ATK,Legend,6,Will,30.0,66.92,57.08
+489,26864174240,1,12, ATK,, % ATK, % HP, HP, % Accuracy,Legend,5,Violent,0.0,62.99,57.07
+490,26726141016,6,15, % ATK,, % Accuracy, % HP, % Dmg crit, % Tx. crit,Legend,6,Fatale,50.0,61.66,57.04
+491,40595280226,1,15, ATK,, % ATK, % HP, VIT, HP,Héroïque,6,Violent,0.0,62.96,57.04
+492,39297508524,3,9, DEF, VIT, % HP, % Accuracy, % DEF,,Héroïque,6,Revenge,0.0,62.95,57.03
+493,36233372665,5,9, HP, % Res, VIT, % Dmg crit, % DEF,,Héroïque,6,Rage,0.0,62.9,56.98
+494,39266996612,1,12, ATK,, % HP, % Accuracy, % ATK, % Tx. crit,Legend,6,Gardian,0.0,62.88,56.96
+495,37009451244,4,11, % Dmg crit, % DEF, % HP, % Accuracy, % ATK, ATK,Legend,6,Combat,0.0,62.85,56.94
+496,38996738530,5,12, HP,, % DEF, % Dmg crit, % Tx. crit, % HP,Héroïque,6,Rage,50.0,61.83,56.93
+497,37263912852,1,12, ATK,, % ATK, % Res, HP, % HP,Legend,6,Violent,50.0,61.49,56.89
+498,37563300790,3,6, DEF, % Accuracy, % DEF, VIT, HP, % Res,Legend,6,Proctection,0.0,62.79,56.88
+499,27276971839,5,15, HP,, % Tx. crit, % ATK, % Dmg crit, % Res,Héroïque,6,Despair,0.0,62.73,56.82
+500,39061061553,5,15, HP,, % Tx. crit, % HP, VIT, % DEF,Héroïque,6,Vampire,50.0,58.67,56.78
+501,28549925800,1,12, ATK,, % HP, % Tx. crit, VIT, % ATK,Héroïque,6,Gardian,80.0,61.61,56.77
+502,42061982002,4,15, % HP,, HP, VIT, ATK, % Tx. crit,Héroïque,6,Endurance,0.0,62.59,56.7
+503,27007802114,5,12, HP,, % ATK, % Dmg crit, % HP, % Res,Héroïque,6,Energy,0.0,62.55,56.67
+504,42016837492,2,15, % ATK,, % HP, % Tx. crit, % Dmg crit, ATK,Héroïque,6,Swift,0.0,62.55,56.66
+505,40667168236,5,15, HP, % DEF, % HP, % ATK, % Tx. crit, ATK,Héroïque,6,Will,0.0,62.51,56.63
+506,40279871575,3,12, DEF,, % Dmg crit, % Tx. crit, % HP, % DEF,Héroïque,6,Revenge,0.0,62.47,56.59
+507,38972506719,4,15, % HP,, % Tx. crit, VIT, % Res, ATK,Héroïque,6,Destruction,0.0,62.47,56.59
+508,29192045585,3,12, DEF,, % DEF, % HP, % Accuracy, HP,Héroïque,5,Violent,0.0,62.45,56.57
+509,37608598635,4,15, % Dmg crit,, HP, % ATK, % Tx. crit, % HP,Héroïque,6,Rage,55.0,54.43,56.53
+510,31128264115,3,15, DEF,, % Tx. crit, % Accuracy, % DEF, HP,Héroïque,6,Determination,40.0,63.26,56.52
+511,27063732630,3,12, DEF,, HP, VIT, % HP, % Accuracy,Legend,5,Swift,0.0,62.38,56.51
+512,41994057070,2,9, % HP, HP, % DEF, % Accuracy, % Res,,Héroïque,6,Revenge,0.0,62.35,56.48
+513,36370258702,2,15, VIT,, % Accuracy, % DEF, % Dmg crit, % ATK,Rare,6,Will,60.0,55.68,56.48
+514,28748341639,4,12, % Dmg crit,, VIT, % Accuracy, ATK, % HP,Legend,5,Combat,35.0,61.47,56.42
+515,39234225143,4,12, % HP,, % Dmg crit, % ATK, DEF, VIT,Legend,6,Revenge,0.0,62.27,56.42
+516,27318665896,5,12, HP, % Res, % Accuracy, % ATK, % HP, VIT,Rare,6,Despair,0.0,62.26,56.4
+517,30947354205,1,12, ATK,, % Dmg crit, HP, % Accuracy, % ATK,Legend,6,Fatale,0.0,62.25,56.4
+518,28068387974,1,15, ATK,, % ATK, % Tx. crit, VIT, % HP,A Héroïqie,16,Energy,0.0,62.2,56.35
+519,27142092037,5,15, HP,, % Dmg crit, % DEF, % Tx. crit, % HP,Héroïque,6,Fatale,55.0,59.94,56.27
+520,27120094757,3,15, DEF,, % Dmg crit, % HP, % Tx. crit, VIT,Héroïque,6,Energy,30.0,63.12,56.27
+521,30925026721,3,12, DEF,, HP, % Tx. crit, % DEF, % Dmg crit,Legend,6,Violent,0.0,62.09,56.25
+522,36552369993,3,12, DEF,, VIT, % Dmg crit, % HP, % Tx. crit,Héroïque,6,Swift,0.0,62.09,56.25
+523,36026655164,4,15, % DEF,, % Res, % HP, % Tx. crit, % ATK,Legend,6,Will,0.0,62.03,56.2
+524,40638556584,2,9, % DEF, % Dmg crit, % Tx. crit, % ATK, VIT, DEF,Legend,6,Proctection,0.0,61.97,56.14
+525,40944670014,6,15, % Res,, % HP, % DEF, VIT, % Tx. crit,Héroïque,6,Will,0.0,61.91,56.08
+526,31158586177,3,15, DEF,, % Tx. crit, % HP, % DEF, % Dmg crit,Héroïque,6,Combat,0.0,61.91,56.08
+527,36830363412,5,12, HP, % ATK, VIT, % Accuracy, % Tx. crit, % Res,Héroïque,6,Despair,0.0,61.81,56.0
+528,27157563650,4,15, % ATK, % Dmg crit, % Accuracy, ATK, VIT, HP,Héroïque,6,Fatale,0.0,61.79,55.98
+529,36905230131,5,12, HP,, % Tx. crit, % DEF, % Accuracy, % HP,Legend,5,Determination,60.0,57.07,55.97
+530,37307363424,4,10, % Tx. crit,, % Dmg crit, % Accuracy, ATK, % HP,Legend,6,Will,0.0,61.71,55.9
+531,39155271237,2,9, % ATK, HP, % HP, % DEF, % Accuracy,,Héroïque,6,Violent,0.0,61.7,55.89
+532,40992631250,4,9, % Dmg crit, % ATK, % Res, % HP, % DEF,,Héroïque,6,Destruction,0.0,61.64,55.84
+533,27914816534,4,12, % Dmg crit, % HP, ATK, % DEF, % Accuracy, DEF,Héroïque,6,Lame,0.0,61.59,55.8
+534,37582872632,4,9, % Tx. crit, % ATK, VIT, % Res, % DEF,,Héroïque,6,Gardian,0.0,61.57,55.78
+535,28998075937,2,15, % HP, % ATK, % Tx. crit, % Accuracy, % DEF, % Res,Rare,6,Violent,60.0,56.9,55.75
+536,27120860292,3,15, DEF, % Accuracy, % HP, HP, % DEF, % Res,Héroïque,6,Swift,0.0,61.54,55.75
+537,28552774409,1,15, ATK,, % Dmg crit, % Tx. crit, % Res, % Accuracy,Rare,6,Revenge,0.0,61.51,55.73
+538,40657639632,1,15, ATK, % Dmg crit, HP, VIT, % ATK, % Res,Héroïque,6,Will,0.0,61.51,55.72
+539,27441039704,1,12, ATK,, % Tx. crit, HP, VIT, % HP,Héroïque,6,Fatale,0.0,61.51,55.72
+540,39868494895,1,9, ATK, % HP, % Res, % Tx. crit, VIT, % Accuracy,Legend,6,Violent,0.0,61.49,55.7
+541,40614871410,5,9, HP, % Res, DEF, VIT, % HP,,Héroïque,6,Gardian,0.0,61.49,55.7
+542,42064705327,5,15, HP,, % HP, VIT, % Res, % DEF,Héroïque,6,Violent,0.0,61.45,55.66
+543,27115603961,1,15, ATK,, HP, % Dmg crit, % Tx. crit, % ATK,Héroïque,6,Lame,0.0,61.42,55.64
+544,31158670222,2,12, VIT, HP, % ATK, % DEF, % Dmg crit, DEF,Héroïque,5,Combat,40.0,63.66,55.59
+545,39174012448,4,9, % ATK, % Res, VIT, % DEF, HP, % Dmg crit,Legend,6,Focus,0.0,61.35,55.58
+546,27037485195,4,15, % Dmg crit,, % DEF, VIT, % ATK, % Tx. crit,Rare,6,Lame,75.0,52.61,55.55
+547,38959915676,3,9, DEF, % DEF, % Res, % Tx. crit, % Accuracy, VIT,Legend,6,Destruction,0.0,61.31,55.54
+548,31675413292,1,12, ATK,, % Dmg crit, VIT, % Tx. crit, % ATK,Héroïque,6,Vampire,45.0,56.06,55.46
+549,39357626346,1,9, ATK,, VIT, % ATK, % HP,,Héroïque,6,Focus,0.0,61.19,55.43
+550,38871796951,2,9, % HP,, % Res, VIT, % Tx. crit, ATK,Legend,6,Destruction,0.0,61.15,55.4
+551,37269151591,2,12, % DEF,, VIT, % HP, % Accuracy, HP,Héroïque,6,Will,80.0,58.05,55.36
+552,28192020246,4,15, % HP,, VIT, % Res, % DEF, % Accuracy,Héroïque,6,Lame,55.0,55.34,55.35
+553,38945987480,3,9, DEF, % Tx. crit, VIT, % HP, % Dmg crit,,Héroïque,6,Nemesis,0.0,61.1,55.35
+554,26682210837,3,15, DEF,, % Tx. crit, % Dmg crit, VIT, % Res,Rare,6,Fatale,60.0,58.31,55.29
+555,27935756200,6,15, % ATK, DEF, % Dmg crit, % Tx. crit, VIT, % Accuracy,Héroïque,5,Swift,0.0,61.01,55.27
+556,36309154762,6,15, % ATK, VIT, % HP, % Tx. crit, % Dmg crit, DEF,Rare,6,Swift,0.0,61.0,55.26
+557,37597478550,6,15, % ATK,, % Dmg crit, % HP, % Tx. crit, % Accuracy,Héroïque,6,Proctection,40.0,60.7,55.25
+558,28552774413,3,15, DEF,, % Tx. crit, VIT, % Dmg crit, % Res,Rare,6,Vampire,60.0,59.4,55.24
+559,28423488463,5,15, HP, ATK, % Accuracy, VIT, % HP, % Tx. crit,Héroïque,6,Violent,55.0,59.22,55.19
+560,37120905903,6,15, % DEF, % Tx. crit, % Dmg crit, % Accuracy, VIT, % HP,Rare,6,Determination,65.0,53.67,55.18
+561,39118295980,1,9, ATK, % Tx. crit, VIT, % HP, % ATK,,Héroïque,6,Focus,0.0,60.89,55.16
+562,37152694228,5,15, HP,, % Accuracy, % ATK, VIT, % Tx. crit,Héroïque,6,Amelio,80.0,61.23,55.13
+563,40595398101,3,12, DEF,, % HP, % DEF, VIT, % Res,Legend,6,Violent,30.0,61.87,55.13
+564,27441510686,2,15, VIT, % Accuracy, % ATK, % HP, DEF, HP,Héroïque,5,Swift,0.0,60.85,55.12
+565,38887197885,5,9, HP, ATK, VIT, % ATK, % Accuracy,,Héroïque,6,Will,0.0,60.83,55.11
+566,36989974734,3,15, DEF,, % Tx. crit, % DEF, % Accuracy, % HP,Rare,5,Determination,55.0,57.93,55.08
+567,40597027627,2,9, VIT, % Res, % DEF, % HP, % ATK,,Héroïque,6,Focus,0.0,60.79,55.07
+568,37707247577,4,15, % HP, ATK, % Res, VIT, % ATK, % DEF,Héroïque,6,Gardian,0.0,60.79,55.07
+569,39260187861,2,15, VIT,, % HP, % Tx. crit, % Accuracy, % Dmg crit,Héroïque,6,Proctection,0.0,60.78,55.06
+570,28493761631,1,12, ATK, % Dmg crit, VIT, % Tx. crit, HP, % HP,Rare,6,Proctection,60.0,58.01,55.02
+571,39237027472,3,9, DEF, % Tx. crit, % Accuracy, % DEF, VIT,,Héroïque,6,Focus,0.0,60.67,54.96
+572,42064998347,5,9, HP, % Tx. crit, % ATK, % HP, % DEF,,Héroïque,6,Proctection,0.0,60.67,54.96
+573,36661424587,1,12, ATK,, VIT, % HP, % Dmg crit, % Res,Héroïque,6,Lame,0.0,60.6,54.9
+574,38946759599,4,9, % DEF, % HP, VIT, % ATK, % Dmg crit,,Héroïque,6,Rage,0.0,60.59,54.89
+575,42193075343,4,15, % Dmg crit,, % DEF, % HP, VIT, HP,Héroïque,6,Swift,0.0,60.56,54.86
+576,40596855488,1,9, ATK, % Dmg crit, % ATK, % HP, VIT,,Héroïque,6,Revenge,0.0,60.54,54.84
+577,39273707460,3,9, DEF, % HP, % Accuracy, VIT, % Dmg crit,,Héroïque,6,Violent,0.0,60.5,54.81
+578,40354034366,3,9, DEF, VIT, % Res, % Accuracy, % HP,,Héroïque,6,Violent,0.0,60.5,54.81
+579,37727081125,5,9, HP, % Dmg crit, % Accuracy, VIT, % Tx. crit,,Héroïque,6,Focus,0.0,60.47,54.78
+580,39051193651,5,9, HP, % ATK, DEF, VIT, % Tx. crit,,Héroïque,6,Destruction,60.0,61.95,54.69
+581,38967045020,4,15, % DEF,, HP, % HP, VIT, % Tx. crit,Héroïque,6,Nemesis,50.0,60.21,54.64
+582,40308714918,6,12, % Res,, % Dmg crit, % Tx. crit, DEF, % Accuracy,Legend,6,Violent,0.0,60.31,54.64
+583,27930350124,1,12, ATK,, % HP, % Res, % Accuracy, % Dmg crit,Legend,6,Energy,0.0,60.3,54.62
+584,26879274626,5,15, HP,, % ATK, % Tx. crit, % HP, % DEF,Héroïque,6,Fatale,46.66,54.21,54.62
+585,28233851505,2,15, % DEF, % Dmg crit, % ATK, % Tx. crit, % Accuracy, VIT,A Rare,16,Energy,0.0,60.28,54.61
+586,41097493003,6,9, % HP,, ATK, % Res, % Tx. crit, % Dmg crit,Legend,6,Rage,0.0,60.27,54.6
+587,28425181728,6,15, % ATK, % DEF, % Tx. crit, HP, ATK, % Accuracy,Rare,6,Revenge,70.54,55.86,54.58
+588,36001628230,3,12, DEF, HP, % DEF, % HP, % Res, VIT,Héroïque,6,Will,45.0,57.78,54.58
+589,36343918482,4,15, % HP, % Tx. crit, VIT, % DEF, ATK, % Accuracy,Rare,6,Swift,55.0,57.34,54.57
+590,42064553662,4,9, % Tx. crit, ATK, % Dmg crit, % HP, % Res,,Héroïque,6,Revenge,0.0,60.22,54.55
+591,27963868631,5,12, HP,, % ATK, % DEF, % Tx. crit, % Dmg crit,Héroïque,5,Vampire,55.0,52.58,54.51
+592,27124772088,1,12, ATK,, HP, VIT, % Accuracy, % ATK,Héroïque,6,Despair,0.0,60.15,54.49
+593,39023547261,1,9, ATK, % ATK, % Accuracy, % Dmg crit, % Tx. crit,,Héroïque,6,Will,0.0,60.11,54.45
+594,27120521953,1,12, ATK, % Accuracy, VIT, HP, % HP, % Dmg crit,Rare,6,Energy,0.0,60.09,54.44
+595,36195276540,5,15, HP,, % Tx. crit, VIT, % DEF, % Res,Rare,6,Will,65.0,55.38,54.4
+596,38973940939,1,9, ATK, % ATK, VIT, % Dmg crit, % HP,,Héroïque,6,Nemesis,0.0,60.05,54.4
+597,31672489857,5,15, HP,, % HP, % Res, VIT, ATK,Héroïque,6,Will,0.0,60.03,54.38
+598,31142012921,5,15, HP,, % Tx. crit, % Dmg crit, % HP, VIT,Héroïque,5,Combat,30.0,61.01,54.37
+599,36452142823,5,9, HP, % HP, % Tx. crit, VIT, % ATK,,Héroïque,6,Lame,0.0,59.89,54.26
+600,36195069290,5,12, HP,, % Dmg crit, % Tx. crit, % Accuracy, DEF,Héroïque,6,Will,0.0,59.88,54.25
+601,29153857949,6,12, % HP, % Accuracy, % Res, % DEF, VIT, DEF,Héroïque,6,Proctection,55.0,57.57,54.24
+602,41071637135,3,9, DEF,, % Dmg crit, VIT, % Tx. crit,,Héroïque,6,Endurance,0.0,59.86,54.23
+603,27177453831,3,12, DEF,, % HP, % Accuracy, HP, % DEF,Héroïque,6,Violent,0.0,59.83,54.2
+604,29069802510,6,9, % ATK, HP, % Tx. crit, % HP, % Res, % DEF,Legend,6,Proctection,0.0,59.78,54.16
+605,38949610678,4,9, % ATK, VIT, % DEF, % Tx. crit, % Accuracy,,Héroïque,6,Nemesis,0.0,59.75,54.13
+606,41085081120,3,9, DEF, % HP, VIT, % Tx. crit, % Dmg crit,,Héroïque,6,Revenge,0.0,59.69,54.08
+607,27563879529,6,15, % HP, % Dmg crit, % Res, HP, % Tx. crit, VIT,Héroïque,6,Swift,0.0,59.58,53.98
+608,40639522547,3,6, DEF, % Tx. crit, % DEF, VIT, % HP, % Accuracy,Legend,6,Revenge,0.0,59.58,53.98
+609,41614021488,3,6, DEF, % HP, % Tx. crit, % Accuracy, % DEF, % Dmg crit,Legend,6,Endurance,0.0,59.55,53.95
+610,39232799686,1,9, ATK, % Tx. crit, % ATK, % Res, VIT,,Héroïque,6,Revenge,0.0,59.54,53.93
+611,28424490800,5,9, HP, % HP, % DEF, VIT, % Accuracy,,Héroïque,6,Endurance,0.0,59.51,53.91
+612,40932388057,5,12, HP,, % Accuracy, VIT, % DEF, % HP,Héroïque,6,Violent,0.0,59.42,53.83
+613,40642788025,3,9, DEF, % Tx. crit, VIT, % Dmg crit, % Accuracy,,Héroïque,6,Will,0.0,59.41,53.82
+614,26879274624,2,15, VIT,, % DEF, ATK, % HP, % Accuracy,Legend,5,Energy,45.0,58.77,53.81
+615,27138473235,2,15, % HP, HP, % Accuracy, % DEF, VIT, % Res,Héroïque,5,Despair,55.0,56.15,53.81
+616,27441919040,4,12, % HP,, % Dmg crit, % Res, DEF, % Tx. crit,Héroïque,5,Despair,0.0,59.39,53.8
+617,28461970292,2,15, VIT, % Res, % ATK, % Accuracy, HP, DEF,Héroïque,6,Will,49.09,57.78,53.77
+618,29012431700,5,9, HP, ATK, % Accuracy, VIT, % Tx. crit,,Héroïque,6,Focus,0.0,59.35,53.77
+619,39022043448,1,9, ATK, % Tx. crit, % Res, % Accuracy, VIT, % ATK,Legend,6,Destruction,0.0,59.29,53.71
+620,38880014900,1,6, ATK, % Dmg crit, VIT, HP, % Tx. crit, % ATK,Legend,6,Vampire,0.0,59.23,53.66
+621,40338899875,3,9, DEF,, HP, VIT, % Tx. crit,,Héroïque,6,Revenge,0.0,59.19,53.62
+622,38952807123,4,9, ATK, % Tx. crit, % Accuracy, % HP, VIT,,Héroïque,6,Will,0.0,59.16,53.59
+623,28565256185,6,12, % HP, DEF, % Tx. crit, HP, % Accuracy, % ATK,Héroïque,6,Proctection,0.0,59.11,53.55
+624,26878565436,1,15, ATK, % ATK, % Tx. crit, VIT, HP, % HP,Rare,6,Fatale,0.0,59.1,53.54
+625,36490713785,5,9, HP, DEF, % ATK, % Tx. crit, % HP,,Héroïque,6,Swift,0.0,59.07,53.51
+626,40614239296,3,15, DEF,, % Tx. crit, VIT, % Res, HP,Héroïque,6,Violent,0.0,59.06,53.51
+627,41984995407,4,9, % Dmg crit, % HP, % DEF, VIT, % Res,,Héroïque,6,Rage,0.0,59.06,53.51
+628,28888314687,1,15, ATK,, % ATK, % Dmg crit, VIT, HP,Héroïque,6,Violent,0.0,59.05,53.5
+629,40325498167,6,15, % Res, % DEF, VIT, ATK, % ATK, HP,Héroïque,6,Endurance,80.0,58.85,53.49
+630,40651322774,5,9, HP, % Res, % Dmg crit, % HP, % ATK,,Héroïque,6,Violent,0.0,59.03,53.48
+631,28393114925,3,12, DEF,, VIT, % Tx. crit, % Dmg crit, % Res,Héroïque,6,Revenge,0.0,58.96,53.41
+632,30611914250,1,9, ATK, % Res, VIT, % Dmg crit, % HP,,Héroïque,6,Lame,0.0,58.95,53.4
+633,38953122991,1,12, ATK,, VIT, % Tx. crit, % ATK, % Dmg crit,Héroïque,6,Rage,0.0,58.88,53.34
+634,39235230786,2,9, % ATK, % Dmg crit, DEF, % HP, VIT,,Héroïque,6,Proctection,0.0,58.87,53.33
+635,38965265266,1,9, ATK, % Res, % ATK, % Tx. crit, % Dmg crit,,Héroïque,6,Destruction,0.0,58.84,53.3
+636,37578308279,4,9, % HP, HP, % Accuracy, % Dmg crit, % DEF,,Héroïque,6,Focus,0.0,58.76,53.23
+637,38900812682,2,15, VIT,, % DEF, % ATK, DEF, HP,Héroïque,6,Will,0.0,58.71,53.18
+638,27348347698,1,9, ATK,, % Dmg crit, % Tx. crit, VIT,,Héroïque,5,Energy,0.0,58.62,53.1
+639,39049711027,3,9, DEF, % DEF, VIT, % Dmg crit, % Tx. crit,,Héroïque,6,Will,0.0,58.59,53.08
+640,37159436242,2,9, % DEF, % HP, VIT, % Res, % Tx. crit, % ATK,Legend,6,Lame,0.0,58.59,53.07
+641,27027538372,6,15, % HP, ATK, HP, VIT, % Accuracy, % Tx. crit,Rare,5,Despair,60.0,58.19,53.07
+642,37738304451,4,9, % HP, % Tx. crit, DEF, VIT, HP,,Héroïque,6,Revenge,0.0,58.52,53.02
+643,37407932891,3,9, DEF, % HP, VIT, HP, % DEF,,Héroïque,6,Nemesis,0.0,58.47,52.97
+644,40681244491,1,9, ATK, % Res, % Tx. crit, % HP, % ATK,,Héroïque,6,Vampire,0.0,58.47,52.97
+645,28293370941,6,15, % HP, HP, % Accuracy, % Res, % DEF, DEF,Héroïque,6,Endurance,0.0,58.46,52.96
+646,38964052419,3,9, DEF, % Tx. crit, % HP, % DEF, % Dmg crit,,Héroïque,6,Will,0.0,58.46,52.96
+647,41918471183,5,9, HP,, % DEF, ATK, VIT,,Héroïque,6,Lame,0.0,58.41,52.91
+648,28552774414,4,15, % Dmg crit,, VIT, % Accuracy, % ATK, ATK,Rare,6,Vampire,65.0,53.74,52.91
+649,30685560194,2,15, VIT,, % Dmg crit, % Tx. crit, % HP, % ATK,Héroïque,5,Swift,30.0,61.92,52.89
+650,36793599982,2,9, % DEF, DEF, % Accuracy, HP, % HP,,Héroïque,6,Lame,0.0,58.38,52.89
+651,29294878396,5,15, HP,, % Tx. crit, % HP, % Dmg crit, % ATK,Rare,6,Lame,55.0,52.94,52.82
+652,40631327629,6,15, % HP,, VIT, ATK, % Tx. crit, HP,Héroïque,6,Gardian,60.0,58.41,52.79
+653,30915897068,5,12, HP, % Res, % Accuracy, VIT, % ATK, % DEF,Rare,6,Violent,0.0,58.21,52.73
+654,27125163471,6,15, % Accuracy, ATK, % Dmg crit, VIT, % HP, % Tx. crit,Rare,5,Despair,0.0,58.19,52.71
+655,29246490997,2,9, % HP, % ATK, VIT, % Dmg crit, % DEF,,Héroïque,6,Energy,0.0,58.17,52.7
+656,39048846790,5,9, HP,, VIT, % ATK, % DEF,,Héroïque,6,Destruction,0.0,58.12,52.65
+657,28700980030,4,15, % HP,, % Res, % Accuracy, DEF, VIT,Héroïque,5,Violent,0.0,58.06,52.6
+658,36581122888,6,9, % Accuracy, % Tx. crit, VIT, DEF, % HP,,Héroïque,6,Energy,0.0,58.05,52.59
+659,41694642955,4,9, % Tx. crit,, DEF, VIT, % Res,,Héroïque,6,Revenge,0.0,58.03,52.57
+660,38996518100,2,9, % DEF, % Res, % Accuracy, % Tx. crit, VIT,,Héroïque,6,Will,0.0,58.01,52.55
+661,27276570992,3,12, DEF, % HP, % Dmg crit, VIT, % Accuracy, % DEF,Héroïque,6,Energy,0.0,57.99,52.54
+662,41022942773,3,9, DEF, % Res, % DEF, % Tx. crit, VIT,,Héroïque,6,Nemesis,0.0,57.98,52.53
+663,36333336427,6,9, ATK, HP, VIT, DEF, % Tx. crit,,Héroïque,6,Despair,0.0,57.96,52.5
+664,30915832343,1,12, ATK,, % Dmg crit, % Res, % Accuracy, % HP,Legend,6,Violent,0.0,57.86,52.42
+665,28427742652,4,15, % Dmg crit, % Res, % Tx. crit, % Accuracy, % ATK, ATK,Rare,6,Proctection,50.0,54.79,52.39
+666,39049947350,1,9, ATK, HP, % Tx. crit, % ATK, % Res,,Héroïque,6,Will,0.0,57.8,52.36
+667,41050569541,4,9, % HP, % Tx. crit, % Res, VIT, % Dmg crit,,Héroïque,6,Will,0.0,57.79,52.36
+668,39260061638,6,9, % HP, % Tx. crit, % DEF, % Res, VIT,,Héroïque,6,Gardian,0.0,57.77,52.33
+669,29123622132,5,12, HP,, % Tx. crit, % ATK, % Dmg crit, % DEF,Héroïque,6,Proctection,0.0,57.74,52.31
+670,37502271307,3,9, DEF,, % HP, % Accuracy, VIT,,Héroïque,6,Revenge,0.0,57.74,52.31
+671,37632252397,6,9, % ATK, ATK, VIT, % Dmg crit, DEF,,Héroïque,6,Focus,60.0,59.6,52.31
+672,28861129549,3,9, DEF, % Tx. crit, % Res, % Accuracy, % DEF,,Héroïque,6,Endurance,0.0,57.73,52.3
+673,28303801549,4,12, % ATK,, % Tx. crit, VIT, % Accuracy, ATK,Rare,6,Proctection,0.0,57.72,52.28
+674,28584065699,2,15, VIT,, % Dmg crit, % Tx. crit, % HP, ATK,Rare,6,Revenge,58.33,48.06,52.25
+675,38895079818,6,9, DEF, % ATK, HP, % HP, VIT,,Héroïque,6,Rage,80.0,58.32,52.23
+676,37563391778,3,9, DEF, % HP, % Tx. crit, % Dmg crit, VIT,,Héroïque,6,Proctection,0.0,57.64,52.22
+677,39130265700,3,9, DEF, % Dmg crit, % Res, % Accuracy, VIT,,Héroïque,6,Revenge,0.0,57.64,52.21
+678,38959540822,6,12, % Res,, VIT, % DEF, HP, ATK,Héroïque,6,Will,0.0,57.6,52.18
+679,42467705118,3,9, DEF, % DEF, % HP, % Accuracy, VIT,,Héroïque,6,Violent,0.0,57.58,52.16
+680,36661351218,2,15, VIT,, % DEF, % Accuracy, % Tx. crit, % Dmg crit,Héroïque,6,Fatale,0.0,57.53,52.12
+681,40940637281,2,9, % ATK, % HP, VIT, % Res, % DEF,,Héroïque,6,Will,0.0,57.49,52.08
+682,38912996129,1,9, ATK, % Tx. crit, % HP, VIT, % ATK,,Héroïque,6,Nemesis,0.0,57.47,52.06
+683,38987807771,4,15, % Dmg crit,, VIT, % Accuracy, % DEF, ATK,Héroïque,6,Rage,0.0,57.46,52.05
+684,38900798497,3,9, DEF,, % Accuracy, VIT, % HP,,Héroïque,6,Vampire,0.0,57.45,52.04
+685,38896054727,1,9, ATK, % Dmg crit, % ATK, % Tx. crit, VIT,,Héroïque,6,Nemesis,0.0,57.43,52.02
+686,39235424248,3,9, DEF, % Tx. crit, % DEF, % Res, VIT,,Héroïque,6,Proctection,0.0,57.39,51.99
+687,37987310090,4,9, % DEF, ATK, VIT, % Res, % ATK,,Héroïque,6,Revenge,0.0,57.37,51.97
+688,40658667688,5,9, HP, % HP, DEF, VIT, % Accuracy,,Héroïque,6,Will,0.0,57.36,51.96
+689,40742059813,5,9, HP,, % Tx. crit, VIT, % HP,,Héroïque,6,Destruction,0.0,57.32,51.93
+690,26682210839,5,15, HP,, % ATK, % Accuracy, DEF, % Res,Rare,6,Fatale,0.0,57.23,51.84
+691,27323708549,5,12, HP,, % HP, VIT, ATK, % Tx. crit,Héroïque,6,Swift,0.0,57.22,51.83
+692,37598792885,5,9, HP, % Accuracy, DEF, % DEF, VIT,,Héroïque,6,Gardian,0.0,57.2,51.82
+693,27163643750,2,15, % HP,, % Accuracy, % ATK, % Res, % Tx. crit,Héroïque,6,Energy,0.0,57.11,51.74
+694,27933808940,2,15, VIT,, HP, % ATK, % DEF, % HP,Rare,6,Violent,48.27,47.96,51.72
+695,38766851330,6,9, % ATK,, HP, % HP, % Accuracy, % Tx. crit,Legend,6,Tolerance,0.0,57.08,51.71
+696,27164669746,2,12, % HP,, % ATK, % Res, % Tx. crit, VIT,Héroïque,6,Lame,0.0,57.07,51.7
+697,40740911630,1,9, ATK,, VIT, % Accuracy, % Res,,Héroïque,6,Vampire,0.0,56.98,51.62
+698,41692830308,2,9, VIT,, DEF, % HP, % ATK,,Héroïque,6,Endurance,0.0,56.98,51.62
+699,36466944871,5,9, HP, % Res, % Dmg crit, % ATK, % DEF,,Héroïque,6,Energy,0.0,56.95,51.59
+700,36357632317,1,9, ATK, HP, % HP, % Dmg crit, % Tx. crit,,Héroïque,6,Lame,0.0,56.89,51.54
+701,28273195340,3,15, DEF, VIT, % Accuracy, % Tx. crit, % Dmg crit, % HP,Héroïque,6,Violent,30.0,55.87,51.53
+702,42061647455,2,9, % ATK, % HP, HP, % Tx. crit, VIT,,Héroïque,6,Proctection,0.0,56.85,51.5
+703,40782372891,1,9, ATK, % Dmg crit, % Tx. crit, % HP, VIT,,Héroïque,6,Destruction,0.0,56.79,51.45
+704,42018498295,3,6, DEF, % Accuracy, % Tx. crit, VIT, % Res, % Dmg crit,Legend,6,Swift,0.0,56.77,51.43
+705,38974439236,1,9, ATK, VIT, % Tx. crit, % ATK, % Dmg crit,,Héroïque,6,Vampire,0.0,56.76,51.42
+706,40337305519,1,9, ATK,, % ATK, VIT, % Dmg crit,,Héroïque,6,Vampire,0.0,56.71,51.38
+707,40331808496,5,9, HP,, VIT, % ATK, % DEF,,Héroïque,6,Endurance,0.0,56.69,51.35
+708,41993669969,5,9, HP,, % Dmg crit, % HP, % ATK,,Héroïque,6,Focus,0.0,56.66,51.33
+709,38960411091,2,9, % HP, % Tx. crit, DEF, % Res, % DEF,,Héroïque,6,Will,0.0,56.65,51.32
+710,42242791578,3,9, DEF,, VIT, % Res, % HP,,Héroïque,6,Revenge,0.0,56.65,51.32
+711,31182658515,2,15, % ATK,, % DEF, % Tx. crit, % Res, ATK,Héroïque,5,Violent,0.0,56.64,51.31
+712,41228690426,5,9, HP,, % HP, ATK, % Tx. crit, VIT,Legend,6,Proctection,0.0,56.64,51.31
+713,36287937749,1,12, ATK, % HP, VIT, % Accuracy, % Res, % Tx. crit,Rare,6,Swift,0.0,56.61,51.28
+714,38974302288,4,9, % Dmg crit, VIT, % ATK, % DEF, % Accuracy,,Héroïque,6,Destruction,0.0,56.59,51.26
+715,41917078168,4,6, % ATK, % Dmg crit, % Tx. crit, % DEF, DEF, % Accuracy,Legend,6,Fatale,0.0,56.58,51.26
+716,38997883408,6,9, % HP, % ATK, % Dmg crit, % DEF, VIT,,Héroïque,6,Nemesis,0.0,56.58,51.25
+717,40343588535,5,9, HP, ATK, % Res, VIT, % DEF,,Héroïque,6,Gardian,0.0,56.55,51.23
+718,28285625606,4,12, % DEF,, VIT, % HP, % Accuracy, HP,Héroïque,5,Violent,0.0,56.5,51.19
+719,38973910641,1,9, ATK, % Res, % Tx. crit, VIT, % ATK,,Héroïque,6,Nemesis,0.0,56.49,51.18
+720,40315442772,6,9, % ATK, % DEF, VIT, DEF, % Accuracy,,Héroïque,6,Focus,0.0,56.41,51.1
+721,37707297492,3,9, DEF,, VIT, % Tx. crit, % Res,,Héroïque,6,Focus,0.0,56.39,51.09
+722,27930371147,1,15, ATK,, % Tx. crit, % ATK, % HP, % Accuracy,Héroïque,6,Fatale,50.0,56.82,51.08
+723,40777439224,1,6, ATK, % Tx. crit, % ATK, % HP, HP, % Res,Legend,6,Vampire,0.0,56.33,51.03
+724,40809017905,1,9, ATK, % Accuracy, % ATK, VIT, % HP,,Héroïque,6,Vampire,0.0,56.33,51.03
+725,39251716633,2,9, % ATK, % Res, % HP, % Tx. crit, VIT,,Héroïque,6,Focus,0.0,56.3,51.0
+726,40600484970,4,15, % HP,, % DEF, % Tx. crit, VIT, ATK,Héroïque,6,Revenge,0.0,56.28,50.98
+727,36795841253,5,9, HP,, % DEF, % ATK, VIT,,Héroïque,6,Despair,0.0,56.27,50.97
+728,39045628367,6,9, % HP,, % Dmg crit, % Accuracy, VIT,,Héroïque,6,Destruction,0.0,56.22,50.93
+729,38962372766,2,9, % DEF, % ATK, % Tx. crit, % HP, % Dmg crit,,Héroïque,6,Vampire,0.0,56.18,50.89
+730,38953852813,1,9, ATK,, % ATK, HP, % Tx. crit,,Héroïque,6,Will,0.0,56.11,50.83
+731,39131578939,1,9, ATK, % Res, HP, VIT, % Accuracy,,Héroïque,6,Gardian,0.0,56.1,50.82
+732,39280186647,3,9, DEF,, % Res, % Accuracy, % DEF,,Héroïque,6,Focus,0.0,56.1,50.82
+733,40585745196,5,9, HP,, % DEF, % Res, % Accuracy,,Héroïque,6,Focus,0.0,56.1,50.82
+734,37026124355,5,9, HP,, % Tx. crit, VIT, DEF,,Héroïque,6,Determination,80.0,56.15,50.78
+735,28280140158,1,12, ATK,, % Accuracy, % Tx. crit, % HP, HP,Héroïque,6,Violent,0.0,56.04,50.77
+736,39068405022,1,9, ATK,, % Accuracy, % Dmg crit, % ATK, VIT,Legend,6,Will,0.0,55.97,50.7
+737,40315095809,5,6, HP, % Res, % Dmg crit, % Accuracy, VIT, % DEF,Legend,6,Focus,0.0,55.91,50.65
+738,36160321303,4,12, % HP,, % DEF, % Accuracy, % Res, ATK,Héroïque,6,Gardian,0.0,55.9,50.64
+739,37268525859,2,15, VIT, % Res, % Accuracy, % HP, ATK, DEF,Héroïque,6,Nemesis,40.0,57.92,50.63
+740,39045797197,4,9, ATK, % ATK, VIT, % Accuracy, % Res,,Héroïque,6,Will,60.0,57.46,50.63
+741,27418614437,6,15, % Accuracy,, VIT, % Res, % DEF, DEF,Rare,6,Swift,0.0,55.86,50.61
+742,28096367774,6,15, % DEF, % HP, DEF, VIT, % Accuracy, % Dmg crit,Héroïque,5,Violent,0.0,55.77,50.52
+743,28310251925,1,12, ATK, % Accuracy, VIT, % HP, % ATK, % Dmg crit,Rare,5,Violent,0.0,55.72,50.48
+744,40325666997,5,9, HP, % Tx. crit, ATK, % Accuracy, VIT,,Héroïque,6,Revenge,0.0,55.67,50.43
+745,39130198762,4,9, % Dmg crit, ATK, % ATK, % DEF, % HP,,Héroïque,6,Violent,0.0,55.61,50.38
+746,29618106712,3,9, DEF,, % Tx. crit, % Accuracy, VIT, % HP,Legend,6,Lame,0.0,55.59,50.36
+747,37826116038,1,9, ATK, % Accuracy, % Dmg crit, % HP, % ATK,,Héroïque,6,Violent,0.0,55.58,50.35
+748,42077380167,3,9, DEF,, % DEF, % Tx. crit, VIT,,Héroïque,6,Gardian,0.0,55.55,50.33
+749,38907103527,1,9, ATK,, % Tx. crit, % HP, VIT,,Héroïque,6,Rage,0.0,55.55,50.33
+750,38689350042,4,9, % DEF,, VIT, ATK, % Res,,Héroïque,6,Vampire,60.0,55.97,50.31
+751,27205586778,6,15, % ATK,, % Res, VIT, % Tx. crit, % DEF,Héroïque,5,Lame,0.0,55.54,50.31
+752,38967352157,3,9, DEF,, % HP, % Dmg crit, % DEF,,Héroïque,6,Revenge,0.0,55.54,50.31
+753,39266690088,3,9, DEF,, % DEF, VIT, % HP,,Héroïque,6,Despair,0.0,55.51,50.29
+754,41064968739,1,9, ATK,, % ATK, % Tx. crit, % HP,,Héroïque,6,Proctection,0.0,55.51,50.29
+755,27199750921,3,12, DEF,, % Accuracy, % HP, % Dmg crit, % DEF,Héroïque,6,Swift,0.0,55.5,50.28
+756,40348887392,6,15, % HP,, % Res, VIT, % ATK, % Dmg crit,Héroïque,6,Violent,40.0,55.21,50.27
+757,37598851563,3,9, DEF,, % Dmg crit, % Tx. crit, HP,,Héroïque,6,Violent,0.0,55.49,50.27
+758,38881035308,4,9, % DEF, % Dmg crit, HP, % Tx. crit, VIT,,Héroïque,6,Will,0.0,55.45,50.24
+759,39273574417,2,9, % DEF,, VIT, ATK, % Tx. crit,,Héroïque,6,Gardian,0.0,55.44,50.22
+760,28452661619,3,9, DEF, % Tx. crit, % Dmg crit, % Accuracy, VIT,,Héroïque,6,Gardian,0.0,55.39,50.18
+761,31594835582,5,9, HP,, % HP, % Accuracy, % DEF,,Héroïque,6,Will,30.0,61.32,50.16
+762,38962322173,2,9, % ATK,, % DEF, % Tx. crit, % Accuracy,,Héroïque,6,Destruction,0.0,55.34,50.13
+763,38914147939,4,9, % Dmg crit, HP, VIT, % Res, % Tx. crit,,Héroïque,6,Vampire,0.0,55.29,50.09
+764,39364406830,2,9, VIT,, % Dmg crit, % Tx. crit, % DEF,,Héroïque,6,Endurance,0.0,55.26,50.06
+765,26682210836,2,15, VIT,, % HP, % Tx. crit, % Accuracy, % DEF,Rare,6,Energy,40.0,54.96,50.05
+766,29517338683,1,9, ATK, % ATK, % HP, % Dmg crit, % Tx. crit,,Héroïque,6,Lame,0.0,55.17,49.98
+767,37277568336,1,9, ATK, % Res, % Dmg crit, % Tx. crit, % ATK,,Héroïque,6,Will,0.0,55.16,49.97
+768,38961662923,2,9, VIT, DEF, % Accuracy, % Res, % HP,,Héroïque,6,Destruction,0.0,55.06,49.88
+769,38914554342,6,9, % ATK, % Accuracy, % Tx. crit, % Dmg crit, VIT,,Héroïque,6,Will,0.0,54.96,49.79
+770,39170410224,6,9, % HP, ATK, % Accuracy, % DEF, HP,,Héroïque,6,Violent,0.0,54.95,49.78
+771,36300710712,6,9, % DEF, HP, VIT, DEF, % ATK,,Héroïque,6,Swift,0.0,54.85,49.69
+772,39156847592,5,9, HP,, % HP, % Tx. crit, VIT,,Héroïque,6,Revenge,0.0,54.84,49.68
+773,38965846898,1,9, ATK,, % Accuracy, % ATK, % HP,,Héroïque,6,Will,0.0,54.79,49.64
+774,40777990335,5,9, HP,, % Res, % ATK, % DEF,,Héroïque,6,Will,0.0,54.79,49.64
+775,31132495348,5,15, HP, ATK, VIT, % DEF, % Res, % Dmg crit,Rare,6,Combat,0.0,54.77,49.62
+776,36677786966,4,9, % Dmg crit, DEF, VIT, % HP, % ATK,,Héroïque,6,Energy,0.0,54.71,49.56
+777,27140818901,6,15, % HP,, % Accuracy, DEF, % Dmg crit, VIT,Rare,6,Lame,60.0,51.93,49.51
+778,39121726298,3,6, DEF, % Tx. crit, % Dmg crit, HP, VIT, % HP,Legend,6,Proctection,0.0,54.61,49.47
+779,31652551184,6,15, % HP,, % Dmg crit, % ATK, % DEF, % Tx. crit,Rare,6,Combat,30.0,53.83,49.42
+780,40914570303,2,15, % HP,, % Tx. crit, % Accuracy, VIT, % ATK,Héroïque,6,Will,0.0,54.54,49.41
+781,26682210835,1,15, ATK,, VIT, % Tx. crit, HP, % Accuracy,Rare,6,Energy,80.0,52.61,49.39
+782,37472197603,3,9, DEF,, % DEF, VIT, % HP,,Héroïque,6,Gardian,0.0,54.5,49.37
+783,40349995417,1,6, ATK, % Accuracy, % ATK, % Res, % HP, VIT,Legend,6,Focus,0.0,54.42,49.3
+784,38914217114,4,9, % HP,, % DEF, % Accuracy, % Tx. crit,,Héroïque,6,Destruction,0.0,54.37,49.26
+785,39117521139,6,9, % HP, HP, ATK, % Accuracy, VIT,,Héroïque,6,Focus,0.0,54.36,49.25
+786,36370086955,2,15, VIT, % HP, % DEF, HP, % Accuracy, % Dmg crit,Rare,6,Swift,60.18,48.03,49.23
+787,38959999319,1,9, ATK,, % Dmg crit, % HP, % ATK,,Héroïque,6,Rage,0.0,54.3,49.19
+788,38953573664,3,6, DEF, % Res, VIT, % Tx. crit, % Dmg crit, HP,Legend,6,Nemesis,0.0,54.27,49.16
+789,36317586657,4,15, % DEF,, % HP, % Dmg crit, % Accuracy, % Tx. crit,Héroïque,6,Despair,40.0,55.98,49.13
+790,39291768611,2,9, % ATK,, HP, VIT, ATK,,Héroïque,6,Focus,0.0,54.13,49.04
+791,41097853159,2,9, % HP, % ATK, VIT, % DEF, % Accuracy,,Héroïque,6,Nemesis,0.0,54.12,49.03
+792,36692117852,3,9, DEF,, VIT, % DEF, % Dmg crit,,Héroïque,6,Despair,0.0,54.1,49.01
+793,39246317980,1,9, ATK,, % ATK, VIT, % Tx. crit,,Héroïque,6,Endurance,0.0,54.08,48.99
+794,40342024646,2,9, % ATK,, % Tx. crit, % Accuracy, % HP,,Héroïque,6,Proctection,0.0,54.04,48.95
+795,36331538875,4,9, % DEF, VIT, % Tx. crit, % HP, ATK,,Héroïque,6,Energy,0.0,54.03,48.95
+796,38997549838,2,9, % ATK, DEF, % Tx. crit, % DEF, % Dmg crit,,Héroïque,6,Vampire,0.0,54.03,48.94
+797,40608976275,5,6, HP, % Res, VIT, ATK, % Tx. crit, % ATK,Legend,6,Revenge,0.0,54.01,48.93
+798,27037482559,4,15, % HP,, % Dmg crit, % Tx. crit, % Res, % Accuracy,Rare,6,Lame,0.0,54.0,48.92
+799,39002264805,1,6, ATK,, VIT, % HP, % Tx. crit, HP,Legend,6,Destruction,0.0,53.96,48.89
+800,28098619127,5,6, HP, % Dmg crit, % Accuracy, VIT, % Tx. crit,,Héroïque,5,Combat,0.0,53.95,48.88
+801,27043179155,3,12, DEF,, % DEF, % HP, % Tx. crit, % Res,Héroïque,6,Energy,0.0,53.91,48.84
+802,37465404183,4,9, % Dmg crit,, % Accuracy, % ATK, DEF,,Héroïque,6,Proctection,0.0,53.82,48.75
+803,28178104329,2,15, % DEF,, VIT, % Tx. crit, % ATK, % Accuracy,Rare,6,Lame,50.0,48.78,48.75
+804,42059951271,6,6, % Res, % Dmg crit, % HP, % Tx. crit, VIT, ATK,Legend,6,Violent,0.0,53.79,48.72
+805,39067706807,5,9, HP, ATK, % DEF, % Tx. crit, % ATK,,Héroïque,6,Will,0.0,53.73,48.68
+806,27065656779,2,12, VIT,, % Dmg crit, HP, % DEF, ATK,Rare,6,Energy,0.0,53.72,48.66
+807,38960427721,5,9, HP,, % Dmg crit, VIT, % Tx. crit,,Héroïque,6,Rage,0.0,53.7,48.64
+808,39144783908,4,9, % DEF, % Tx. crit, % ATK, VIT, DEF,,Héroïque,6,Gardian,0.0,53.69,48.64
+809,39083708006,5,6, HP, DEF, VIT, % Dmg crit, % Res, ATK,Legend,6,Will,0.0,53.68,48.63
+810,39414377668,5,6, HP,, % HP, VIT, % Res, % ATK,Legend,6,Combat,0.0,53.66,48.61
+811,40731025236,1,9, ATK,, % ATK, % HP, % Tx. crit,,Héroïque,6,Vampire,0.0,53.66,48.61
+812,41020773807,1,9, ATK,, % Accuracy, VIT, % Res,,Héroïque,6,Destruction,0.0,53.66,48.61
+813,36991432881,1,15, ATK,, % ATK, % Accuracy, % Tx. crit, % HP,Rare,6,Determination,70.0,47.98,48.58
+814,36580985957,1,9, ATK, HP, % Tx. crit, VIT, % HP,,Héroïque,6,Fatale,0.0,53.63,48.58
+815,37693813419,5,9, HP,, % ATK, VIT, % Tx. crit,,Héroïque,6,Gardian,0.0,53.62,48.57
+816,27980466627,5,15, HP,, VIT, % Tx. crit, % HP, % Accuracy,Rare,6,Swift,40.0,51.01,48.57
+817,37006519874,5,9, HP,, % ATK, VIT, % HP,,Héroïque,6,Combat,0.0,53.62,48.57
+818,37008935435,1,6, ATK, % Tx. crit, % Accuracy, VIT, % HP, % Dmg crit,Legend,6,Tolerance,0.0,53.61,48.57
+819,42152695542,2,9, % ATK,, DEF, % HP, % DEF,,Héroïque,6,Destruction,0.0,53.59,48.55
+820,38998049868,4,9, % HP,, VIT, ATK, % ATK,,Héroïque,6,Nemesis,0.0,53.52,48.49
+821,37578201685,4,9, % HP, % Res, % DEF, VIT, ATK,,Héroïque,6,Focus,0.0,53.5,48.47
+822,39046859758,4,9, % Dmg crit,, % ATK, % Accuracy, % Res,,Héroïque,6,Will,0.0,53.49,48.46
+823,40685664389,4,9, % Dmg crit, ATK, % Accuracy, % Res, % HP,,Héroïque,6,Will,0.0,53.47,48.44
+824,39047668882,6,9, % ATK, HP, ATK, VIT, % HP,,Héroïque,6,Vampire,0.0,53.47,48.44
+825,39262283629,4,6, % Tx. crit,, VIT, HP, % Accuracy, % ATK,Legend,6,Revenge,0.0,53.44,48.41
+826,37568781731,6,9, DEF,, % ATK, ATK, VIT,,Héroïque,6,Proctection,0.0,53.43,48.4
+827,28769528606,3,9, DEF,, % HP, VIT, % Tx. crit,,Héroïque,6,Proctection,0.0,53.36,48.34
+828,28519920861,6,10, % Accuracy,, % HP, VIT, % DEF,,Héroïque,6,Focus,0.0,53.36,48.34
+829,39170473782,1,9, ATK,, % ATK, VIT, % Accuracy,,Héroïque,6,Endurance,0.0,53.36,48.34
+830,37120886492,6,15, % DEF,, DEF, HP, % ATK, % Dmg crit,Rare,6,Determination,58.33,47.7,48.34
+831,40318590114,1,9, ATK,, % Tx. crit, VIT, % HP,,Héroïque,6,Focus,0.0,53.32,48.3
+832,37599624371,5,9, HP,, % Tx. crit, VIT, % DEF,,Héroïque,6,Focus,0.0,53.32,48.3
+833,28589536335,5,12, HP,, % HP, % DEF, % Res, % Accuracy,Héroïque,5,Gardian,0.0,53.31,48.3
+834,37005211118,4,6, % HP, % ATK, VIT, DEF, HP, ATK,Legend,6,Precision,0.0,53.28,48.27
+835,39273357753,1,6, ATK, % Dmg crit, % ATK, HP, VIT, % Tx. crit,Legend,6,Vampire,0.0,53.25,48.24
+836,38991256840,4,9, % Dmg crit, ATK, % Tx. crit, % HP, HP,,Héroïque,6,Vampire,0.0,53.22,48.21
+837,36986394403,1,14, ATK,, % Accuracy, % ATK, % HP, % Dmg crit,Héroïque,5,Determination,70.0,47.55,48.2
+838,40780862597,2,9, % HP,, % DEF, % Res, VIT,,Héroïque,6,Will,0.0,53.2,48.19
+839,41991459589,5,9, HP,, % ATK, % Accuracy, VIT,,Héroïque,6,Proctection,0.0,53.2,48.19
+840,38986803437,6,9, % Accuracy,, VIT, % Tx. crit, % Res,,Héroïque,6,Rage,0.0,53.15,48.15
+841,28310248397,2,15, % ATK,, VIT, % Dmg crit, % Tx. crit, % Accuracy,Héroïque,5,Violent,0.0,53.15,48.14
+842,36419733465,4,9, % Dmg crit, % Accuracy, DEF, % ATK, % Tx. crit,,Héroïque,6,Lame,0.0,53.14,48.14
+843,40653401605,2,9, % DEF,, HP, VIT, % Res,,Héroïque,6,Focus,0.0,53.11,48.11
+844,27890385189,1,6, ATK, % Accuracy, % Dmg crit, % HP, VIT,,Héroïque,6,Lame,0.0,53.09,48.1
+845,40337686021,6,9, % DEF, ATK, DEF, VIT, % HP,,Héroïque,6,Focus,0.0,53.08,48.09
+846,38987427360,4,9, % Dmg crit,, % ATK, % Res, ATK,,Héroïque,6,Rage,0.0,53.06,48.07
+847,37501918919,4,9, DEF,, VIT, HP, % Accuracy,,Héroïque,6,Focus,0.0,52.94,47.96
+848,39060167721,2,9, % ATK, % Res, % DEF, % HP, ATK,,Héroïque,6,Vampire,0.0,52.88,47.9
+849,40351411651,4,9, HP, % Dmg crit, % Tx. crit, VIT, % HP,,Héroïque,6,Revenge,0.0,52.86,47.89
+850,39002346362,5,9, HP,, % Accuracy, VIT, DEF,,Héroïque,6,Vampire,0.0,52.83,47.86
+851,39357203804,5,9, HP,, VIT, % DEF, DEF,,Héroïque,6,Focus,0.0,52.82,47.85
+852,28410060952,2,12, % ATK,, % Tx. crit, % Res, DEF, ATK,Rare,6,Endurance,0.0,52.82,47.85
+853,38960665528,6,9, % HP,, % Res, VIT, % Dmg crit,,Héroïque,6,Nemesis,0.0,52.8,47.83
+854,38934539168,3,9, DEF,, % HP, VIT, % Res,,Héroïque,6,Vampire,0.0,52.77,47.81
+855,39023422790,1,9, ATK,, VIT, % Res, % Tx. crit,,Héroïque,6,Nemesis,60.0,54.25,47.72
+856,36078674064,1,9, ATK, HP, % ATK, % HP, % Accuracy,,Héroïque,6,Nemesis,0.0,52.62,47.67
+857,40595192745,2,9, % ATK,, VIT, % Accuracy, % HP,,Héroïque,6,Violent,0.0,52.61,47.66
+858,41135070473,6,9, % Accuracy, % DEF, VIT, HP, DEF,,Héroïque,6,Focus,0.0,52.58,47.63
+859,36565236233,3,12, DEF,, % Tx. crit, % DEF, VIT, % Dmg crit,Héroïque,6,Swift,40.0,53.57,47.58
+860,28266957375,5,12, HP,, % Dmg crit, % Res, % HP, ATK,Héroïque,6,Endurance,0.0,52.44,47.51
+861,40305845371,5,9, HP,, % DEF, VIT, % Res,,Héroïque,6,Gardian,0.0,52.44,47.5
+862,39044695427,3,9, DEF,, % DEF, % HP, % Dmg crit,,Héroïque,6,Destruction,0.0,52.4,47.47
+863,26744057323,6,12, % DEF,, % HP, VIT, % Tx. crit, DEF,Rare,5,Swift,0.0,52.38,47.45
+864,31146957243,4,15, % HP,, % ATK, % DEF, % Tx. crit, VIT,Rare,5,Combat,40.0,50.92,47.44
+865,38997774701,3,9, DEF,, % Accuracy, % HP, VIT,,Héroïque,6,Vampire,0.0,52.35,47.43
+866,27177453830,2,15, VIT,, % HP, % Res, DEF, % Dmg crit,Héroïque,6,Violent,0.0,52.34,47.42
+867,39275121255,4,9, % HP,, % Tx. crit, % DEF, VIT,,Héroïque,6,Proctection,0.0,52.31,47.39
+868,42175218413,6,9, % ATK,, HP, % Tx. crit, % Accuracy, % HP,Legend,6,Lame,0.0,52.31,47.38
+869,39119450348,4,9, % HP,, % Dmg crit, VIT, % Tx. crit,,Héroïque,6,Revenge,0.0,52.26,47.35
+870,36363006318,4,6, % HP,, ATK, % Dmg crit, % Tx. crit, HP,Legend,6,Lame,0.0,52.25,47.34
+871,36567988341,3,9, DEF,, % Res, % HP, % DEF,,Héroïque,6,Lame,0.0,52.19,47.28
+872,36362603345,4,9, % Dmg crit,, % DEF, % Accuracy, % Res,,Héroïque,6,Despair,0.0,52.19,47.28
+873,28096702192,4,15, % Dmg crit, ATK, % DEF, % ATK, HP, % Tx. crit,Rare,6,Violent,0.0,52.16,47.25
+874,42002079741,4,9, % HP,, % Accuracy, DEF, VIT,,Héroïque,6,Energy,0.0,52.02,47.13
+875,39061140700,4,9, % ATK, HP, % DEF, % Tx. crit, % HP,,Héroïque,6,Will,0.0,52.02,47.12
+876,36331870526,3,9, DEF, % HP, VIT, % DEF, % Accuracy,,Héroïque,6,Lame,0.0,51.89,47.01
+877,28318670509,1,12, ATK, % ATK, % Accuracy, % HP, % Dmg crit, % Res,Rare,6,Focus,0.0,51.86,46.98
+878,38907532543,5,6, HP,, % DEF, % Tx. crit, ATK, VIT,Legend,6,Will,0.0,51.86,46.98
+879,39246524023,5,6, HP, % Res, VIT, DEF, % Tx. crit, ATK,Legend,6,Proctection,0.0,51.84,46.96
+880,31165297031,1,12, ATK,, % Accuracy, % HP, VIT, % Dmg crit,Héroïque,5,Combat,60.0,50.23,46.94
+881,39131475968,4,9, % HP,, % ATK, % DEF, ATK,,Héroïque,6,Revenge,0.0,51.78,46.91
+882,39046121770,2,6, VIT, % Tx. crit, DEF, HP, % Dmg crit, % DEF,Legend,6,Destruction,0.0,51.73,46.86
+883,28679130639,5,12, HP,, % Res, % Tx. crit, % DEF, % Dmg crit,Héroïque,6,Revenge,40.0,53.97,46.79
+884,39074626376,3,6, DEF,, % DEF, % Res, % Accuracy, VIT,Legend,6,Rage,0.0,51.6,46.74
+885,36856086525,6,9, % DEF,, % Dmg crit, % Res, % HP,,Héroïque,6,Combat,0.0,51.52,46.67
+886,42032957688,5,9, HP,, VIT, % ATK, % DEF,,Héroïque,6,Energy,0.0,51.43,46.59
+887,39049684270,1,9, ATK, % Dmg crit, % ATK, % Tx. crit, % HP,,Héroïque,6,Rage,0.0,51.43,46.59
+888,39358498752,3,9, DEF,, % HP, % Dmg crit, VIT,,Héroïque,6,Revenge,0.0,51.43,46.59
+889,28475779044,1,15, ATK, % Accuracy, VIT, % ATK, % Tx. crit, HP,Rare,6,Violent,0.0,51.41,46.57
+890,27037013748,4,15, % HP, ATK, % Res, VIT, DEF, % ATK,Rare,5,Energy,0.0,51.37,46.54
+891,40740575685,4,9, % Dmg crit,, % ATK, ATK, VIT,,Héroïque,6,Destruction,0.0,51.36,46.53
+892,27066270299,6,15, % HP,, % Dmg crit, VIT, % DEF, % Tx. crit,Rare,6,Lame,0.0,51.36,46.53
+893,38938476607,1,6, ATK, % Res, % ATK, % Accuracy, VIT,,Héroïque,6,Will,0.0,51.36,46.53
+894,39130974744,5,9, HP,, ATK, % DEF, VIT,,Héroïque,6,Focus,0.0,51.36,46.53
+895,40657292035,2,6, % HP,, % ATK, VIT, % DEF, HP,Legend,6,Nemesis,0.0,51.34,46.51
+896,31638965522,6,15, % ATK,, HP, % Tx. crit, ATK, % Accuracy,Héroïque,6,Violent,52.57,44.2,46.47
+897,36294775755,6,9, % DEF, % ATK, % Accuracy, VIT, ATK,,Héroïque,6,Swift,0.0,51.29,46.47
+898,36294944326,6,15, % HP, DEF, % Accuracy, % Dmg crit, VIT, % ATK,Héroïque,6,Swift,0.0,51.29,46.46
+899,40653068393,2,9, % DEF,, % HP, % Accuracy, VIT,,Héroïque,6,Focus,0.0,51.22,46.4
+900,41934117985,1,9, ATK,, % Tx. crit, % Accuracy, VIT,,Héroïque,6,Combat,0.0,51.18,46.36
+901,36798581021,4,9, % Dmg crit, DEF, VIT, % Tx. crit, % DEF,,Héroïque,6,Fatale,0.0,51.12,46.31
+902,36913901617,6,9, % HP, % Res, VIT, HP, % Dmg crit,,Héroïque,6,Energy,0.0,51.09,46.29
+903,31208814821,6,15, % ATK,, % DEF, % Tx. crit, % HP, % Dmg crit,Rare,6,Lame,40.0,49.0,46.23
+904,38963564732,4,9, % Tx. crit,, % ATK, % DEF, % Accuracy,,Héroïque,6,Vampire,0.0,50.88,46.09
+905,40682013085,4,9, % Dmg crit,, % HP, % DEF, % ATK,,Héroïque,6,Vampire,0.0,50.88,46.09
+906,40629204934,2,9, VIT,, % Accuracy, % Tx. crit, % HP,,Héroïque,6,Endurance,0.0,50.84,46.05
+907,39157034767,6,9, % HP,, % Accuracy, % Dmg crit, VIT,,Héroïque,6,Revenge,0.0,50.82,46.03
+908,40779394667,3,6, DEF,, HP, % Res, % Dmg crit, % HP,Legend,6,Nemesis,0.0,50.77,45.99
+909,41099667955,6,6, % HP, % Res, % Dmg crit, % DEF, % ATK,,Héroïque,6,Gardian,0.0,50.75,45.98
+910,36296828538,4,9, % Dmg crit, HP, % DEF, DEF, % Res,,Héroïque,6,Energy,0.0,50.69,45.92
+911,38935962257,4,9, % Dmg crit,, VIT, % Tx. crit, % Accuracy,,Héroïque,6,Nemesis,0.0,50.63,45.86
+912,37265343076,3,6, DEF, % HP, VIT, % Tx. crit, % Accuracy,,Héroïque,6,Nemesis,0.0,50.53,45.78
+913,38765123803,4,9, % Dmg crit,, % Res, VIT, % Accuracy,,Héroïque,6,Determination,0.0,50.46,45.71
+914,39185467519,6,9, % DEF,, % ATK, VIT, % Dmg crit,,Héroïque,6,Focus,0.0,50.46,45.71
+915,39031664934,5,6, HP, DEF, % HP, % Accuracy, VIT, % DEF,Legend,6,Rage,0.0,50.44,45.69
+916,37943536687,2,6, % DEF, ATK, % Tx. crit, VIT, % ATK,,Héroïque,6,Revenge,0.0,50.43,45.69
+917,27126979788,6,15, % DEF,, % HP, % Res, ATK, VIT,Rare,6,Swift,0.0,50.41,45.67
+918,37140758039,5,10, HP,, % DEF, % Dmg crit, % HP,,Héroïque,6,Combat,0.0,50.39,45.65
+919,38867301814,2,6, VIT,, % DEF, DEF, % Dmg crit, % Accuracy,Legend,6,Rage,0.0,50.26,45.53
+920,42032931443,1,9, ATK,, % ATK, % HP, % Dmg crit,,Héroïque,6,Swift,0.0,50.21,45.49
+921,31159259719,1,10, ATK,, % Accuracy, VIT, % HP,,Héroïque,5,Combat,60.0,48.19,45.46
+922,41991451727,2,9, % HP,, % Tx. crit, % Accuracy, % DEF,,Héroïque,6,Violent,0.0,50.12,45.41
+923,38966411567,6,9, % ATK, % Dmg crit, % HP, VIT, % Tx. crit,,Héroïque,6,Vampire,0.0,50.08,45.37
+924,39236341752,4,9, % Tx. crit,, VIT, % DEF, % Accuracy,,Héroïque,6,Revenge,0.0,50.0,45.29
+925,27874743801,2,9, % HP,, % Dmg crit, HP, VIT,,Héroïque,6,Fatale,0.0,49.94,45.24
+926,42454242067,1,6, ATK, % Accuracy, % Res, % Tx. crit, VIT, HP,Legend,6,Proctection,0.0,49.86,45.17
+927,36284668320,3,9, DEF, HP, % Accuracy, % DEF, % Tx. crit,,Héroïque,6,Lame,0.0,49.85,45.16
+928,36792162979,3,9, DEF, VIT, % HP, % Dmg crit, % Accuracy,,Héroïque,6,Swift,0.0,49.81,45.12
+929,29614342724,6,15, % ATK,, % HP, % Dmg crit, HP, % Res,Rare,6,Swift,40.0,52.1,45.1
+930,39219994944,4,9, % HP,, % DEF, % Tx. crit, % Accuracy,,Héroïque,6,Revenge,0.0,49.74,45.06
+931,36926428783,5,9, HP,, % DEF, % Accuracy, VIT,,Héroïque,6,Gardian,0.0,49.74,45.06
+932,40348672880,5,6, HP,, % Tx. crit, % DEF, DEF, % Dmg crit,Legend,6,Violent,0.0,49.68,45.0
+933,40352898395,1,9, ATK,, % Accuracy, % ATK, % Res,,Héroïque,6,Gardian,0.0,49.58,44.91
+934,37823551158,3,9, DEF,, % HP, % DEF, % Res,,Héroïque,6,Gardian,0.0,49.58,44.91
+935,39094000080,4,9, % Tx. crit,, % ATK, % Accuracy, % HP,,Héroïque,6,Violent,0.0,49.58,44.91
+936,39048755480,5,9, HP,, % DEF, % ATK, % Accuracy,,Héroïque,6,Will,0.0,49.58,44.91
+937,38941000148,4,9, % ATK,, % Dmg crit, % HP, VIT,,Héroïque,6,Will,0.0,49.56,44.9
+938,40595377198,2,9, % ATK,, % DEF, % Tx. crit, % Res,,Héroïque,6,Violent,0.0,49.53,44.87
+939,40931819456,4,9, % HP,, VIT, % Res, % ATK,,Héroïque,6,Will,0.0,49.53,44.87
+940,40689640689,4,9, % HP, % DEF, % Accuracy, VIT, % Tx. crit,,Héroïque,6,Will,0.0,49.45,44.8
+941,27269927873,5,12, HP,, % Res, % HP, VIT, % Tx. crit,Rare,6,Energy,0.0,49.37,44.72
+942,36005855362,3,6, DEF, % Dmg crit, HP, % DEF, % Res, VIT,Legend,6,Vampire,0.0,49.36,44.71
+943,37025756011,3,9, DEF,, % DEF, VIT, % Accuracy,,Héroïque,5,Determination,0.0,49.27,44.63
+944,36195025480,2,10, VIT,, % Accuracy, HP, % Tx. crit,,Rare,6,Will,0.0,49.16,44.54
+945,42642822997,4,9, % Dmg crit,, VIT, % Accuracy, % Tx. crit,,Héroïque,6,Revenge,0.0,49.16,44.53
+946,36053213770,6,9, % Accuracy,, VIT, HP, % ATK,,Héroïque,6,Nemesis,0.0,49.12,44.5
+947,37598674058,3,6, DEF, % Tx. crit, VIT, % HP,,,Rare,6,Revenge,0.0,49.1,44.48
+948,40585908188,1,6, ATK, % Res, % ATK, HP, % Accuracy, % HP,Legend,6,Revenge,0.0,49.09,44.47
+949,37640036837,6,6, % DEF, DEF, VIT, % Tx. crit, % Dmg crit,,Héroïque,6,Violent,0.0,49.08,44.46
+950,37501126233,4,9, % Dmg crit,, % Accuracy, % DEF, VIT,,Héroïque,6,Proctection,0.0,48.99,44.38
+951,27153781018,2,9, % HP,, % Res, % Tx. crit, % DEF,,Héroïque,6,Lame,0.0,48.82,44.22
+952,38940242395,2,6, % DEF, % Dmg crit, VIT, % Res, % Accuracy,,Héroïque,6,Rage,0.0,48.77,44.18
+953,41991855600,1,9, ATK,, % ATK, % Accuracy, VIT,,Héroïque,6,Swift,0.0,48.61,44.03
+954,40951734155,4,6, % Tx. crit, % ATK, % DEF, VIT, ATK,,Héroïque,6,Nemesis,0.0,48.55,43.98
+955,28381808847,2,15, % DEF,, % Dmg crit, % Accuracy, VIT, % Res,Rare,6,Gardian,0.0,48.47,43.91
+956,27270351892,3,15, DEF,, % Tx. crit, % Dmg crit, HP, % HP,Rare,6,Fatale,60.0,44.07,43.86
+957,39142615715,4,15, % DEF,, VIT, HP, % HP, ATK,Héroïque,6,Violent,60.0,47.97,43.84
+958,39323276737,5,6, HP,, % DEF, % Res, % HP, % Accuracy,Legend,6,Revenge,0.0,48.27,43.73
+959,38935116787,3,9, DEF,, % Dmg crit, VIT, % DEF,,Héroïque,6,Rage,0.0,48.27,43.73
+960,37806028559,4,9, % Dmg crit,, % Tx. crit, VIT, % Accuracy,,Héroïque,6,Revenge,0.0,48.23,43.69
+961,36370425727,4,6, % HP, DEF, VIT, % Dmg crit, % Accuracy,,Héroïque,6,Lame,0.0,48.05,43.53
+962,39143585535,3,9, DEF,, % DEF, % HP, % Tx. crit,,Héroïque,6,Gardian,0.0,47.98,43.46
+963,40652257105,2,9, VIT, DEF, % Res, % HP, % Dmg crit,,Héroïque,6,Revenge,0.0,47.95,43.44
+964,36830464167,6,9, % ATK,, % DEF, VIT, ATK,,Héroïque,6,Despair,0.0,47.94,43.43
+965,31674946664,3,6, DEF, % Tx. crit, % DEF, VIT, % Dmg crit,,Héroïque,6,Rage,0.0,47.89,43.39
+966,27205563497,2,15, % ATK,, % DEF, % Accuracy, % Dmg crit, HP,Héroïque,6,Fatale,0.0,47.84,43.34
+967,38945404281,1,9, ATK,, % Accuracy, % Dmg crit, VIT,,Héroïque,6,Vampire,0.0,47.8,43.3
+968,41991435512,3,9, DEF,, VIT, % Accuracy, % Res,,Héroïque,6,Violent,0.0,47.77,43.27
+969,41085007794,5,9, HP,, % Accuracy, DEF, VIT,,Héroïque,6,Focus,0.0,47.67,43.18
+970,42252438923,6,15, % HP,, ATK, % Res, % Dmg crit, VIT,Rare,6,Combat,0.0,47.64,43.16
+971,38954572461,1,6, ATK, % Dmg crit, % Tx. crit, % ATK, % HP, HP,Legend,6,Vampire,0.0,47.62,43.14
+972,38960283965,3,9, DEF,, % DEF, VIT, % Accuracy,,Héroïque,6,Nemesis,0.0,47.39,42.93
+973,38976341002,1,6, ATK,, HP, % Accuracy, % Dmg crit, % Tx. crit,Legend,6,Will,0.0,47.34,42.89
+974,39069424600,4,0, % Dmg crit, ATK, % HP, % Accuracy, % ATK, % Res,Legend,6,Gardian,0.0,47.29,42.84
+975,39273526542,4,6, % Dmg crit,, % Tx. crit, DEF, ATK, % DEF,Legend,6,Proctection,0.0,47.13,42.7
+976,28083675485,3,9, DEF, % Res, VIT, HP, % HP,,Rare,6,Focus,0.0,47.01,42.59
+977,39169943722,6,6, % HP,, % Tx. crit, % Dmg crit, HP, VIT,Legend,6,Focus,0.0,47.0,42.57
+978,40655108763,2,9, VIT,, % Res, % DEF, DEF,,Héroïque,6,Violent,0.0,46.84,42.43
+979,37200565404,5,6, HP,, % ATK, % Dmg crit, % DEF,,Héroïque,6,Nemesis,0.0,46.83,42.42
+980,40625445728,2,6, VIT,, % DEF, DEF, HP, ATK,Legend,6,Focus,0.0,46.8,42.39
+981,39290471166,2,9, VIT,, % Tx. crit, % DEF, % Dmg crit,,Héroïque,6,Violent,0.0,46.68,42.29
+982,38979104631,2,6, % DEF,, % Tx. crit, HP, % ATK,,Héroïque,6,Nemesis,0.0,46.67,42.28
+983,36681992419,2,6, % HP, % DEF, VIT, ATK,,,Rare,6,Swift,0.0,46.58,42.2
+984,40652627205,3,6, DEF,, % Accuracy, VIT, HP, % DEF,Legend,6,Focus,0.0,46.56,42.18
+985,40595299260,6,9, % Accuracy,, % Dmg crit, VIT, % ATK,,Héroïque,6,Violent,0.0,46.5,42.13
+986,41691798531,4,3, % Tx. crit, % HP, HP, % Accuracy, DEF, VIT,Legend,6,Revenge,0.0,46.41,42.05
+987,41071424554,1,6, ATK,, % Tx. crit, HP, % HP, VIT,Legend,6,Nemesis,0.0,46.27,41.92
+988,28571395266,6,15, % HP,, % Accuracy, VIT, % Dmg crit, % Tx. crit,Rare,6,Violent,0.0,46.21,41.86
+989,38967730132,1,9, ATK,, % ATK, % Tx. crit, VIT,,Héroïque,6,Rage,0.0,46.08,41.75
+990,38979487736,1,3, ATK, % Tx. crit, % Accuracy, HP, % Dmg crit, % ATK,Legend,6,Nemesis,0.0,46.03,41.7
+991,37471398230,6,6, % HP,, % Accuracy, VIT, ATK,,Héroïque,6,Gardian,0.0,46.03,41.7
+992,37598593471,3,9, DEF,, HP, VIT, % Accuracy,,Héroïque,6,Endurance,0.0,46.02,41.69
+993,37357616800,6,9, % HP,, % Accuracy, % ATK, VIT,,Héroïque,6,Rage,0.0,45.91,41.59
+994,40592720665,4,5, % ATK, % DEF, % Dmg crit, % Tx. crit, HP, DEF,Legend,6,Revenge,0.0,45.83,41.52
+995,38986590181,4,9, % HP,, % ATK, % Res, % Tx. crit,,Héroïque,6,Vampire,0.0,45.83,41.52
+996,40600501391,6,6, % Accuracy,, HP, VIT, % HP, ATK,Legend,6,Focus,0.0,45.82,41.51
+997,31144861213,1,6, ATK, % Res, % HP, % Dmg crit,,,Rare,5,Combat,0.0,45.63,41.33
+998,41030480667,2,6, % HP,, % Tx. crit, % Dmg crit, % ATK,,Héroïque,6,Destruction,0.0,45.6,41.31
+999,37301052110,2,6, % HP,, % Tx. crit, ATK, VIT,,Héroïque,6,Vampire,0.0,45.55,41.26
+1000,37597192948,3,9, DEF,, VIT, % Res, % Accuracy,,Héroïque,6,Focus,0.0,45.54,41.25
+1001,31675265181,6,6, % HP,, % Res, % DEF, HP,,Héroïque,6,Nemesis,0.0,45.51,41.23
+1002,40593679336,6,6, % ATK, DEF, % Res, % DEF, VIT,,Héroïque,6,Gardian,0.0,45.49,41.21
+1003,40613524958,1,6, ATK,, HP, % Tx. crit, % HP, VIT,Legend,6,Violent,0.0,45.47,41.19
+1004,36670810996,2,9, % HP,, VIT, ATK, % Res,,Héroïque,6,Lame,0.0,45.29,41.03
+1005,38935833466,1,6, ATK,, VIT, HP, % HP,,Héroïque,6,Will,0.0,45.15,40.9
+1006,26867354569,6,15, % HP, DEF, % Accuracy, % Tx. crit, % DEF, VIT,Blanche,5,Swift,40.0,42.78,40.84
+1007,40350861358,6,9, % ATK,, % Tx. crit, ATK, DEF,,Héroïque,6,Violent,0.0,44.99,40.75
+1008,38965336073,2,9, % HP,, % Tx. crit, % DEF, % ATK,,Héroïque,6,Will,0.0,44.9,40.68
+1009,40349443851,4,6, % Dmg crit,, % Res, HP, ATK, VIT,Legend,6,Gardian,0.0,44.84,40.62
+1010,37204050523,5,9, HP,, % Accuracy, ATK, VIT,,Héroïque,6,Will,0.0,44.72,40.51
+1011,27346914780,6,15, % ATK,, % Tx. crit, % Accuracy, ATK, % Res,Rare,5,Fatale,0.0,44.62,40.42
+1012,36051753257,1,9, ATK,, % Dmg crit, VIT, % ATK,,Héroïque,6,Rage,0.0,44.13,39.98
+1013,37120890310,3,9, DEF, % Dmg crit, % Accuracy, VIT, HP,,Héroïque,6,Determination,0.0,43.85,39.73
+1014,27913084339,2,15, VIT,, HP, % HP, % Tx. crit, % DEF,Rare,6,Energy,0.0,43.48,39.39
+1015,38986856157,1,6, ATK,, % Tx. crit, % HP, % ATK,,Héroïque,6,Nemesis,0.0,43.22,39.15
+1016,36478999475,6,6, % DEF, % Tx. crit, % Res, % Dmg crit, DEF,,Héroïque,6,Lame,0.0,43.04,38.99
+1017,41991391738,3,6, DEF,, % Dmg crit, % Tx. crit, VIT,,Héroïque,6,Combat,0.0,42.85,38.82
+1018,36242077756,6,15, % HP,, % DEF, % Res, ATK, VIT,Rare,5,Combat,0.0,42.09,38.13
+1019,38873959972,1,6, ATK,, VIT, % ATK, % Dmg crit,,Héroïque,6,Will,0.0,41.97,38.02
+1020,36988746237,2,6, % DEF,, % ATK, VIT, % HP,,Héroïque,6,Precision,0.0,41.45,37.55
+1021,40340204383,3,3, DEF,, % Res, % HP, % Accuracy, HP,Legend,6,Violent,0.0,41.42,37.52
+1022,30896724420,2,6, VIT,, % ATK, % DEF, % Tx. crit,,Héroïque,6,Endurance,0.0,41.16,37.29
+1023,37017310015,1,0, ATK, % HP, % Res, % Tx. crit, % Dmg crit, % ATK,Legend,5,Determination,0.0,41.09,37.22
+1024,42338857945,4,3, % Dmg crit, % HP, % Accuracy, ATK, % ATK, VIT,Legend,6,Energy,0.0,40.93,37.08
+1025,42252341142,2,0, % ATK, DEF, % HP, % Res, % Tx. crit, % DEF,Legend,6,Combat,0.0,40.19,36.41
+1026,42176076437,4,0, % ATK,, % Tx. crit, % HP, % DEF, DEF,Legend,6,Despair,0.0,39.72,35.98
+1027,42576962180,5,0, HP, % HP, ATK, DEF, % ATK, % DEF,Legend,6,Focus,0.0,39.54,35.82
+1028,39267560590,2,6, VIT,, % DEF, % Dmg crit, % ATK,,Héroïque,6,Proctection,0.0,39.35,35.65
+1029,39208975769,1,0, ATK, % Accuracy, % ATK, % Res, % HP, % Dmg crit,Legend,6,Endurance,0.0,39.26,35.56
+1030,40586550749,6,6, % HP,, VIT, % Accuracy, % Dmg crit,,Héroïque,6,Violent,0.0,38.37,34.76
+1031,40777236990,1,0, ATK, HP, % Tx. crit, % Accuracy, % Dmg crit, % HP,Legend,6,Determination,0.0,38.04,34.46
+1032,37824408315,5,0, HP, DEF, % Accuracy, % Dmg crit, % Res, ATK,Legend,6,Endurance,0.0,37.64,34.1
+1033,40279797919,1,0, ATK,, % Res, % Dmg crit, % ATK, % HP,Legend,6,Focus,0.0,37.59,34.05
+1034,42133784496,4,0, % Dmg crit, HP, % Tx. crit, % HP, VIT, % Accuracy,Legend,5,Determination,0.0,37.52,33.99
+1035,38686128584,4,0, % ATK, % Dmg crit, % DEF, % HP, ATK, % Accuracy,Legend,6,Nemesis,0.0,37.46,33.93
+1036,39129536798,2,0, % HP,, DEF, % ATK, % Accuracy, % Res,Legend,6,Violent,0.0,37.41,33.89
+1037,37608516005,2,0, % HP, % Res, % DEF, % ATK, DEF, % Tx. crit,Legend,6,Rage,0.0,36.93,33.45
+1038,36003060942,2,0, % DEF, HP, % HP, % Tx. crit, ATK, % Dmg crit,Legend,6,Vampire,0.0,36.9,33.43
+1039,42252341143,1,6, ATK,, % Dmg crit, % HP,,,Rare,5,Combat,0.0,36.75,33.29
+1040,36491011643,4,3, % HP,, % Tx. crit, % ATK, % DEF,,Héroïque,6,Swift,0.0,36.7,33.24
+1041,37473673101,2,3, % HP,, VIT, % ATK, ATK,,Héroïque,6,Endurance,0.0,36.58,33.14
+1042,42677284415,3,0, DEF, VIT, % HP, % Accuracy, % Res, HP,Legend,6,Swift,0.0,35.96,32.58
+1043,37873635809,1,0, ATK,, % Accuracy, % Res, % Tx. crit, % ATK,Legend,6,Focus,0.0,35.77,32.4
+1044,37502479269,5,0, HP, % Tx. crit, % DEF, ATK, % HP, % Dmg crit,Legend,6,Violent,0.0,35.73,32.37
+1045,42368449864,3,0, DEF, VIT, % Accuracy, % Tx. crit, % DEF,,Héroïque,6,Precision,0.0,35.72,32.36
+1046,40955735687,2,0, % HP, % Dmg crit, % DEF, DEF, % Res, HP,Legend,6,Nemesis,0.0,35.63,32.28
+1047,41920702379,1,0, ATK,, % Accuracy, HP, % ATK, % Dmg crit,Legend,6,Energy,0.0,35.39,32.06
+1048,37826151058,4,0, % DEF, % Accuracy, % HP, % Tx. crit, DEF, ATK,Legend,6,Revenge,0.0,35.36,32.03
+1049,42366792768,2,0, % ATK,, % DEF, % Tx. crit, % HP, ATK,Legend,6,Combat,0.0,35.28,31.96
+1050,42367931513,2,0, % DEF,, DEF, % ATK, % Accuracy, % HP,Legend,6,Combat,0.0,35.05,31.75
+1051,41992531471,1,0, ATK,, % Res, % Dmg crit, VIT, % Tx. crit,Legend,6,Fatale,0.0,35.03,31.73
+1052,40330730999,3,0, DEF, % Accuracy, % Tx. crit, % Res, % HP,,Héroïque,6,Revenge,0.0,34.9,31.62
+1053,41665082252,1,0, ATK,, % Res, % HP, % Tx. crit, % Dmg crit,Legend,6,Will,0.0,34.79,31.52
+1054,42181833087,1,0, ATK, % Tx. crit, VIT, % ATK, % Res,,Héroïque,6,Gardian,0.0,34.74,31.47
+1055,41084501870,2,0, % ATK, DEF, % Accuracy, % Dmg crit, ATK, % DEF,Legend,6,Precision,0.0,34.71,31.44
+1056,36983341139,4,0, HP,, % Tx. crit, VIT, DEF, % Accuracy,Legend,5,Combat,0.0,34.07,30.86
+1057,42425473899,1,0, ATK, % ATK, VIT, % HP, % Res,,Héroïque,6,Lame,0.0,34.01,30.81
+1058,42011641653,4,0, % HP, VIT, % DEF, % Accuracy, % Dmg crit,,Héroïque,6,Destruction,0.0,33.98,30.79
+1059,40951457740,6,0, % Accuracy,, % DEF, % Dmg crit, % ATK, % HP,Legend,6,Nemesis,0.0,33.85,30.66
+1060,37806288798,3,0, DEF, % Tx. crit, % Res, % HP, % Accuracy, % Dmg crit,Legend,6,Focus,0.0,33.81,30.63
+1061,38885852016,3,0, DEF, % DEF, % Accuracy, % HP, % Dmg crit, % Res,Legend,6,Nemesis,0.0,33.69,30.52
+1062,41921258301,2,0, % HP,, HP, % DEF, DEF, % Dmg crit,Legend,6,Violent,0.0,33.66,30.49
+1063,31052625572,3,6, DEF,, % DEF, % Tx. crit,,,Rare,5,Combat,0.0,33.55,30.39
+1064,41499966123,3,3, DEF,, VIT, % Res, % Dmg crit,,Héroïque,6,Violent,0.0,33.49,30.34
+1065,41418064318,1,0, ATK,, % Dmg crit, % HP, % ATK,,A Héroïqie,15,Rage,0.0,33.46,30.31
+1066,41992540184,1,0, ATK, % Tx. crit, % HP, VIT, % Res,,Héroïque,6,Swift,0.0,33.27,30.14
+1067,41241904608,2,6, % ATK, % DEF, % Res, % Tx. crit,,,Rare,6,Combat,0.0,33.25,30.12
+1068,38873261571,4,0, % DEF,, % ATK, DEF, % Accuracy, % Tx. crit,Legend,6,Will,0.0,32.71,29.63
+1069,38935097770,6,0, % HP,, HP, ATK, % ATK, % Accuracy,Legend,6,Rage,0.0,32.69,29.61
+1070,42252341138,2,0, HP, % Dmg crit, % Tx. crit, % Accuracy, DEF,,Héroïque,6,Combat,0.0,32.68,29.61
+1071,42252342958,6,0, % Accuracy, % Dmg crit, % DEF, % Res, % ATK,,Héroïque,6,Combat,0.0,32.61,29.55
+1072,37694382872,1,0, ATK,, % Accuracy, % HP, % Res, % ATK,Legend,6,Gardian,0.0,32.61,29.55
+1073,42338131430,4,0, % Dmg crit,, HP, % ATK, % DEF, % Res,Legend,6,Despair,0.0,32.54,29.48
+1074,40756969129,6,0, % HP,, HP, % Dmg crit, DEF, % Res,Legend,6,Nemesis,0.0,32.54,29.48
+1075,42181852331,4,0, HP, % Dmg crit, ATK, % HP, VIT,,Héroïque,6,Revenge,0.0,32.41,29.36
+1076,42133884416,6,0, % Accuracy,, % Tx. crit, % ATK, ATK, HP,Legend,5,Precision,0.0,32.09,29.07
+1077,41919895545,3,0, DEF, % HP, % Res, % Accuracy, % DEF,,Héroïque,6,Despair,0.0,32.08,29.06
+1078,39867476983,3,0, DEF,, % Dmg crit, % Res, % Tx. crit, % HP,Legend,6,Proctection,0.0,32.07,29.05
+1079,41920669999,5,0, HP, % Tx. crit, % HP, % ATK, ATK,,Héroïque,6,Swift,0.0,32.04,29.02
+1080,41695481410,3,0, DEF, % DEF, % Dmg crit, VIT, % HP,,Héroïque,6,Violent,0.0,32.01,28.99
+1081,41979751921,2,0, VIT,, % Tx. crit, % ATK, ATK, % HP,Legend,5,Determination,0.0,31.82,28.82
+1082,40682227700,3,0, DEF,, % HP, VIT, % Dmg crit, HP,Legend,6,Lame,0.0,31.77,28.78
+1083,41920712887,2,0, % ATK, % Res, VIT, ATK, % DEF,,Héroïque,6,Energy,0.0,31.65,28.68
+1084,42252341140,5,0, HP, ATK, % Accuracy, % DEF, % HP,,Héroïque,5,Combat,0.0,31.57,28.6
+1085,42575643793,3,0, DEF, % Dmg crit, HP, % DEF, % HP,,Héroïque,6,Violent,0.0,31.48,28.52
+1086,39364289564,4,0, % HP,, ATK, % Res, % Tx. crit, % ATK,Legend,6,Focus,0.0,31.43,28.47
+1087,37008971340,2,3, VIT,, DEF, % DEF, ATK,,Héroïque,6,Precision,0.0,31.01,28.09
+1088,41516759644,6,0, HP, VIT, DEF, % DEF, % ATK,,Héroïque,6,Lame,0.0,30.98,28.07
+1089,36659460095,4,0, % Tx. crit, % HP, % Res, ATK, DEF, % ATK,Legend,6,Lame,0.0,30.83,27.93
+1090,42133903342,3,0, DEF,, VIT, % Tx. crit, HP, % DEF,Legend,5,Determination,0.0,30.83,27.92
+1091,42252342964,5,0, HP,, % Dmg crit, % Accuracy, VIT, % Res,Legend,5,Combat,0.0,30.81,27.91
+1092,42366413506,1,0, ATK, % Accuracy, % Dmg crit, % Res, VIT,,Héroïque,6,Combat,0.0,30.39,27.53
+1093,41915344777,5,0, HP,, % HP, % Accuracy, ATK,,Héroïque,6,Gardian,0.0,30.36,27.5
+1094,40951246883,1,0, ATK,, HP, % Dmg crit, % ATK, % Tx. crit,Legend,6,Will,0.0,30.24,27.4
+1095,41920692459,1,0, ATK, % Res, HP, % HP, VIT,,Héroïque,6,Lame,0.0,30.06,27.23
+1096,41992578492,6,0, % HP, % Dmg crit, % ATK, DEF, % DEF,,Héroïque,6,Swift,0.0,30.03,27.2
+1097,42368026899,1,0, ATK, % Accuracy, VIT, % Res, % Dmg crit,,Héroïque,6,Combat,0.0,29.94,27.12
+1098,41085160901,1,0, ATK, % Accuracy, % Tx. crit, % Dmg crit, % ATK,,Héroïque,6,Gardian,0.0,29.83,27.02
+1099,38927411969,4,0, % ATK,, ATK, VIT, % DEF, % Dmg crit,Legend,6,Rage,0.0,29.8,27.0
+1100,42457225491,5,0, HP,, % Accuracy, % Dmg crit, % HP,,Héroïque,6,Swift,0.0,29.76,26.96
+1101,39216104102,4,0, % HP,, % Dmg crit, % Tx. crit, % Res, % Accuracy,Legend,6,Determination,0.0,29.64,26.85
+1102,36946313469,1,0, ATK,, % Res, % Tx. crit, % Dmg crit,,Héroïque,5,Combat,0.0,29.57,26.79
+1103,41915377479,1,0, ATK, % Accuracy, % Res, HP, % Tx. crit,,Héroïque,6,Revenge,0.0,29.35,26.59
+1104,41920680666,2,0, % DEF,, % HP, ATK, % Dmg crit,,Héroïque,6,Despair,0.0,29.23,26.48
+1105,40916598049,6,0, % ATK,, HP, % Res, DEF, % Tx. crit,Legend,6,Vampire,0.0,29.11,26.37
+1106,40595268271,4,0, % DEF,, % Dmg crit, ATK, HP, % Accuracy,Legend,6,Violent,0.0,28.81,26.1
+1107,31052665525,5,0, HP,, VIT, % DEF, % ATK, ATK,Legend,5,Combat,0.0,28.76,26.05
+1108,40280121909,2,0, HP,, % ATK, % Tx. crit, VIT,,Héroïque,6,Combat,0.0,28.57,25.88
+1109,41915409579,1,0, ATK,, VIT, % ATK, % Tx. crit,,Héroïque,6,Focus,0.0,28.57,25.88
+1110,42335589753,2,0, HP,, VIT, % Accuracy, DEF,,Héroïque,6,Nemesis,0.0,28.44,25.77
+1111,42252341146,2,0, VIT,, DEF, % ATK, ATK,,Héroïque,5,Combat,0.0,28.4,25.73
+1112,39175352601,4,0, % Tx. crit, % ATK, DEF, % Res, % Accuracy,,Héroïque,6,Endurance,0.0,28.36,25.7
+1113,41514575645,2,0, % ATK, % Tx. crit, VIT, % DEF, ATK,,Héroïque,5,Determination,0.0,28.33,25.67
+1114,31638721952,5,0, HP,, % ATK, % Tx. crit, % HP,,Héroïque,5,Combat,0.0,28.31,25.64
+1115,42133848620,5,0, HP, VIT, % Accuracy, % ATK,,,Rare,4,Combat,0.0,28.08,25.44
+1116,41049939734,2,0, % DEF, % Dmg crit, % ATK, % Res, % HP,,Héroïque,6,Vampire,0.0,28.05,25.41
+1117,41585888588,3,0, DEF, HP, % Tx. crit, % Dmg crit, VIT,,Héroïque,6,Gardian,0.0,27.98,25.35
+1118,37000274069,2,0, % DEF, % Dmg crit, % ATK, % HP, ATK,,Héroïque,5,Combat,0.0,27.9,25.27
+1119,37516111525,3,0, DEF,, % HP, % Res, % Accuracy,,Héroïque,4,Combat,0.0,27.64,25.04
+1120,41914799872,6,0, % Res, % ATK, ATK, DEF, % Tx. crit,,Héroïque,5,Precision,0.0,27.63,25.03
+1121,39133617650,4,0, DEF, % DEF, % Accuracy, ATK, % ATK,,Héroïque,6,Proctection,0.0,27.56,24.97
+1122,40744573192,3,0, DEF,, % Res, % Accuracy, % DEF, % HP,Legend,6,Will,0.0,27.39,24.82
+1123,42133579263,5,0, HP,, % Res, VIT, % Tx. crit,,Héroïque,6,Combat,0.0,27.27,24.7
+1124,39233508630,6,0, % DEF,, % Tx. crit, ATK, % ATK, DEF,Legend,6,Focus,0.0,27.26,24.7
+1125,42001631646,1,0, ATK,, % Res, % Accuracy, VIT,,Héroïque,6,Swift,0.0,27.1,24.55
+1126,42441608912,3,0, DEF,, % Accuracy, % Tx. crit, % HP,,Héroïque,6,Lame,0.0,27.1,24.55
+1127,37019211651,1,0, ATK,, % Accuracy, % HP, % Res, VIT,Legend,5,Combat,0.0,27.05,24.51
+1128,41917946887,6,0, % Res,, % Tx. crit, % Dmg crit, % ATK,,Héroïque,6,Lame,0.0,26.96,24.43
+1129,41695541917,5,0, HP,, % Dmg crit, DEF, % ATK,,Héroïque,6,Gardian,0.0,26.6,24.09
+1130,37020465088,5,0, HP,, % Dmg crit, % ATK, % DEF,,Héroïque,5,Combat,0.0,26.44,23.95
+1131,37017273781,4,0, % Dmg crit,, % DEF, DEF, % HP,,Héroïque,5,Combat,0.0,26.28,23.81
+1132,42576252785,1,0, ATK,, % Dmg crit, % Tx. crit, VIT,,Héroïque,6,Destruction,0.0,26.27,23.8
+1133,42002079742,5,0, HP,, % Res, VIT, % HP,,Héroïque,6,Energy,0.0,26.26,23.79
+1134,42458007975,2,0, VIT,, DEF, % ATK, % Res,,Héroïque,6,Despair,0.0,26.17,23.7
+1135,39133602231,4,0, % Dmg crit,, % Tx. crit, VIT, DEF,,Héroïque,6,Focus,0.0,26.1,23.65
+1136,40911939382,4,0, % Dmg crit,, % HP, % ATK, % Res,,Héroïque,6,Will,0.0,26.09,23.64
+1137,40339829821,5,0, HP,, % HP, % Accuracy, % ATK,,Héroïque,6,Revenge,0.0,26.09,23.64
+1138,42243043652,5,0, HP,, VIT, ATK, % ATK,,Héroïque,6,Focus,0.0,26.08,23.63
+1139,31052208657,4,4, % DEF,, ATK, % Tx. crit, VIT,,Héroïque,4,Combat,0.0,25.95,23.5
+1140,42677104595,3,0, DEF,, % DEF, % Res, VIT, % Accuracy,Legend,6,Precision,0.0,25.8,23.37
+1141,39490414055,2,0, DEF, VIT, % Dmg crit, ATK, % Tx. crit,,Héroïque,6,Rage,0.0,25.79,23.36
+1142,42542859922,6,0, % Accuracy,, % HP, % Tx. crit, % Dmg crit,,Héroïque,5,Determination,0.0,25.51,23.11
+1143,42133803387,1,0, ATK,, % Res, HP, % HP,,Héroïque,6,Precision,0.0,25.42,23.03
+1144,36935006413,2,0, % ATK,, % DEF, % Res, % Tx. crit,,Héroïque,5,Combat,0.0,25.34,22.96
+1145,41730176594,2,0, HP,, % ATK, ATK, % Tx. crit,,Héroïque,6,Proctection,0.0,24.88,22.54
+1146,41585944209,6,0, DEF,, % HP, VIT, HP,,Héroïque,6,Endurance,0.0,24.76,22.43
+1147,41730218548,2,0, ATK, HP, % Dmg crit, VIT,,,Rare,6,Proctection,0.0,24.72,22.39
+1148,42542797673,1,0, ATK, VIT, % HP, % ATK,,,Rare,5,Combat,0.0,24.62,22.3
+1149,41915360870,4,0, % DEF,, % Dmg crit, % HP, % ATK,,Héroïque,6,Revenge,0.0,24.54,22.23
+1150,41651762646,1,0, ATK, % Res, % Accuracy, VIT,,,Rare,6,Precision,0.0,24.46,22.16
+1151,41695530295,1,0, ATK,, % Res, VIT, % Tx. crit,,Héroïque,6,Focus,0.0,24.2,21.92
+1152,31141319585,2,0, % HP, % ATK, DEF, % Res,,,Rare,5,Combat,0.0,24.06,21.79
+1153,41651787413,3,0, DEF, HP, % Dmg crit, % Accuracy,,,Rare,5,Tolerance,0.0,23.99,21.73
+1154,42243044473,4,0, % ATK,, VIT, % Accuracy, % Tx. crit,,Héroïque,6,Vampire,0.0,23.73,21.5
+1155,31165510482,4,0, % Dmg crit,, % Res, % Accuracy, % ATK,,Héroïque,5,Combat,0.0,23.69,21.46
+1156,39133647589,3,0, DEF,, % Res, % DEF, % HP,,Héroïque,6,Endurance,0.0,23.48,21.27
+1157,37664976656,2,0, VIT,, % DEF, % HP, % Res,,Héroïque,6,Focus,0.0,23.48,21.27
+1158,41695506397,6,0, % ATK, % Res, HP, % HP,,,Rare,6,Revenge,0.0,23.42,21.22
+1159,41730142667,3,0, DEF,, % Res, % Dmg crit, HP,,Héroïque,6,Endurance,0.0,23.3,21.11
+1160,41915385219,3,0, DEF,, % DEF, % HP, % Tx. crit,,Héroïque,6,Proctection,0.0,23.19,21.0
+1161,42252341141,2,0, VIT,, DEF, % Accuracy, % Res,,Héroïque,5,Combat,0.0,23.13,20.95
+1162,40608615298,2,0, ATK,, HP, % Dmg crit, % HP,,Héroïque,6,Revenge,0.0,23.01,20.84
+1163,42425406972,4,0, % HP, % DEF, % Accuracy, VIT,,,Rare,6,Swift,0.0,22.71,20.57
+1164,42133628896,1,0, ATK, % HP, % Dmg crit, % Accuracy,,,Rare,6,Combat,0.0,22.53,20.41
+1165,41983957528,5,0, HP,, DEF, % Dmg crit, % Res,,Héroïque,6,Determination,0.0,22.43,20.32
+1166,41585955199,4,0, % Tx. crit,, % HP, HP, % DEF,,Héroïque,6,Endurance,0.0,22.31,20.21
+1167,42133500189,2,0, % DEF,, % ATK, % HP, DEF,,Héroïque,5,Combat,0.0,22.25,20.15
+1168,42425456515,6,0, % Accuracy, HP, % ATK, DEF,,,Rare,6,Lame,0.0,22.24,20.14
+1169,35987444222,3,3, DEF,, % Res, % HP,,,Rare,5,Combat,0.0,22.21,20.12
+1170,42252341145,5,0, HP, % ATK, % Res, % DEF,,,Rare,5,Combat,0.0,22.16,20.07
+1171,42542897070,1,0, ATK,, % Tx. crit, HP, % HP,,Héroïque,6,Determination,0.0,21.84,19.79
+1172,41876677020,3,0, DEF, VIT, % DEF, % Dmg crit,,,Rare,5,Combat,0.0,21.82,19.77
+1173,42425502868,2,0, VIT, % Accuracy, % Res, DEF,,,Rare,6,Energy,0.0,21.67,19.63
+1174,42252342960,3,0, DEF, VIT, % Accuracy, % Res,,,Rare,5,Combat,0.0,21.66,19.62
+1175,41978162099,6,0, % DEF, % Dmg crit, % ATK, % HP,,,Rare,5,Determination,0.0,21.66,19.62
+1176,42252341144,2,0, DEF, % Accuracy, VIT, ATK,,,Rare,6,Combat,0.0,21.29,19.29
+1177,42562040053,1,0, ATK,, HP, % ATK, % HP,,Héroïque,5,Amelio,0.0,21.21,19.21
+1178,42315316301,5,0, HP, % Accuracy, % Dmg crit, % ATK,,,Rare,6,Amelio,0.0,21.17,19.18
+1179,42425391821,4,0, % DEF,, % Tx. crit, % Res,,,Rare,6,Energy,0.0,21.04,19.06
+1180,41241850955,6,0, ATK,, VIT, % ATK, HP,,Héroïque,5,Amelio,0.0,21.01,19.03
+1181,31521341492,1,3, ATK, % Res, VIT, % Accuracy,,,Rare,5,Combat,0.0,21.0,19.02
+1182,42176057257,6,0, ATK,, DEF, % Accuracy,,,Rare,6,Swift,0.0,20.97,19.0
+1183,40586603437,5,0, HP,, ATK, % Tx. crit, % Res,,Héroïque,6,Focus,0.0,20.97,18.99
+1184,41978132966,4,0, % Dmg crit,, VIT, % HP,,,Rare,5,Tolerance,0.0,20.9,18.93
+1185,36893600908,6,0, % DEF, HP, % Res, % ATK,,,Rare,6,Combat,0.0,20.82,18.86
+1186,41695519004,2,0, HP, VIT, % Res, % Dmg crit,,,Rare,6,Focus,0.0,20.76,18.81
+1187,41049914336,2,0, ATK,, DEF, HP, % Dmg crit,,Héroïque,6,Nemesis,0.0,20.61,18.67
+1188,41590760312,6,0, % ATK,, % Accuracy, DEF,,,Rare,6,Revenge,0.0,19.92,18.04
+1189,41992559566,2,0, % ATK, % Accuracy, VIT, % Res,,,Rare,6,Lame,0.0,19.62,17.78
+1190,42425423896,5,0, HP,, % Dmg crit, % ATK,,,Rare,6,Fatale,0.0,19.5,17.66
+1191,41241814362,6,0, % Res,, % Tx. crit, % Dmg crit,,,Rare,6,Precision,0.0,19.49,17.65
+1192,42425488883,6,0, % DEF,, % Res, % Tx. crit,,,Rare,6,Swift,0.0,19.27,17.46
+1193,42315294975,4,0, % Tx. crit, VIT, % Dmg crit, % DEF,,,Rare,5,Precision,0.0,18.97,17.18
+1194,40493812634,5,0, HP,, DEF, % HP, VIT,,Héroïque,6,Gardian,0.0,18.86,17.08
+1195,41993950288,6,0, % DEF, VIT, % Tx. crit, % Dmg crit,,,Rare,6,Gardian,0.0,18.7,16.94
+1196,41993985788,2,0, % HP, % ATK, DEF, % Res,,,Rare,6,Proctection,0.0,18.64,16.88
+1197,42252342967,2,0, DEF,, % HP, HP,,,Rare,5,Combat,0.0,18.55,16.8
+1198,42315183037,1,0, ATK,, % Dmg crit, % HP,,,Rare,4,Determination,0.0,18.39,16.66
+1199,42252342970,4,0, % HP, % Accuracy, % Dmg crit, HP,,,Rare,5,Combat,0.0,18.2,16.49
+1200,36195551015,2,0, % DEF,, % Dmg crit, % Accuracy,,,Rare,6,Will,0.0,18.01,16.32
+1201,42176017221,3,0, DEF,, % Dmg crit, % Accuracy,,,Rare,6,Fatale,0.0,18.01,16.32
+1202,41695455320,2,0, % HP, % Tx. crit, VIT, ATK,,,Rare,6,Endurance,0.0,17.96,16.27
+1203,35987875521,6,0, % HP,, % Accuracy, VIT,,,Rare,5,Combat,0.0,17.94,16.25
+1204,42252341148,3,0, DEF,, % Accuracy, % Tx. crit,,,Rare,5,Combat,0.0,17.94,16.25
+1205,42133764699,6,0, % DEF, HP, % HP, % Dmg crit,,,Rare,5,Tolerance,0.0,17.57,15.92
+1206,41915352835,1,0, ATK,, VIT, % HP,,,Rare,6,Focus,0.0,17.5,15.86
+1207,36952760736,6,0, % Res,, VIT, % DEF,,,Rare,6,Combat,0.0,17.13,15.51
+1208,42252438925,3,0, DEF,, HP, % DEF,,,Rare,6,Combat,0.0,16.89,15.3
+1209,42252341139,1,0, ATK,, % Tx. crit, VIT,,,Rare,5,Combat,0.0,16.86,15.27
+1210,41994039136,2,0, DEF,, ATK, % DEF,,,Rare,6,Endurance,0.0,16.78,15.2
+1211,37174553317,5,0, HP, VIT, % Tx. crit, ATK,,,Rare,5,Combat,0.0,16.67,15.1
+1212,42252342968,1,0, ATK,, % Dmg crit, % Tx. crit,,,Rare,5,Combat,0.0,16.62,15.06
+1213,42133555778,1,0, ATK,, % Dmg crit, HP,,,Rare,5,Determination,0.0,16.52,14.96
+1214,42175995181,6,0, % Accuracy,, % Tx. crit, HP,,,Rare,6,Lame,0.0,16.49,14.94
+1215,42542871792,6,0, % Res,, % Accuracy, % Tx. crit,,,Rare,5,Amelio,0.0,16.46,14.91
+1216,42252342966,6,0, % ATK,, % Res, % Dmg crit,,,Rare,5,Combat,0.0,16.45,14.9
+1217,42542817892,1,0, ATK,, % Accuracy, % Tx. crit,,,Rare,6,Combat,0.0,16.2,14.67
+1218,42252342965,1,0, ATK,, VIT, HP,,,Rare,5,Combat,0.0,16.19,14.67
+1219,41876600174,1,0, ATK,, % Tx. crit, % Accuracy,,,Rare,5,Tolerance,0.0,15.83,14.34
+1220,41914739011,6,0, % Res,, % Dmg crit, ATK,,,Rare,5,Determination,0.0,15.1,13.68
+1221,42133653401,1,0, ATK,, HP, % Tx. crit,,,Rare,6,Amelio,0.0,15.08,13.66
+1222,42133529592,1,0, ATK,, % HP, HP,,,Rare,6,Amelio,0.0,15.05,13.63
+1223,41585900021,6,0, ATK,, % DEF, DEF,,,Rare,6,Violent,0.0,14.95,13.54
+1224,37516211356,3,0, DEF,, % Res, % HP,,,Rare,5,Combat,0.0,14.81,13.41
+1225,42542807308,2,0, % ATK,, ATK, % Dmg crit,,,Rare,6,Precision,0.0,14.68,13.3
+1226,42542828237,5,0, HP,, % HP, ATK,,,Rare,6,Tolerance,0.0,14.4,13.04
+1227,42176037071,3,0, DEF,, % DEF, % Accuracy,,,Rare,6,Swift,0.0,14.35,13.0
+1228,38686876452,4,0, % HP,, % Res, HP,,,Rare,6,Will,0.0,14.34,12.99
+1229,40711254024,2,0, DEF,, VIT, % Tx. crit,,,Rare,6,Amelio,0.0,14.14,12.81
+1230,42252438922,1,0, ATK,, HP, % ATK,,,Rare,5,Combat,0.0,14.05,12.72
+1231,41651776077,2,0, % DEF,, HP, % Tx. crit,,,Rare,5,Amelio,0.0,13.98,12.66
+1232,41730165673,2,0, DEF,, % HP, % Dmg crit,,,Rare,6,Focus,0.0,13.92,12.61
+1233,41241888549,6,0, % ATK,, HP, % HP,,,Rare,5,Determination,0.0,13.76,12.46
+1234,42252438920,5,0, HP,, ATK, DEF,,,Rare,5,Combat,0.0,13.17,11.93
+1235,41241939752,2,0, DEF,, HP, ATK,,,Rare,5,Determination,0.0,13.13,11.9
+1236,41418617493,2,0, DEF, % ATK, % Res, VIT,,,Rare,4,Revenge,0.0,12.7,11.5
+1237,42315204268,1,0, ATK,, % Res, % Accuracy,,,Rare,5,Amelio,0.0,11.84,10.73
+1238,42332959441,2,0, % DEF,, % Tx. crit, % Accuracy,,,Rare,5,Amelio,0.0,10.76,9.75
+1239,41998369339,1,0, ATK,, % ATK,,,,Magic,3,Revenge,0.0,6.57,5.95
+1240,42227397532,1,0, ATK, HP,,,,,Blanche,3,Revenge,0.0,5.68,5.15
+1241,42663844199,1,0, ATK,, % Dmg crit,,,,Magic,3,Revenge,0.0,5.47,4.96
+1242,41998430974,1,0, ATK, % ATK,,,,,Blanche,4,Revenge,0.0,3.42,3.1
+1243,41997758361,1,0, ATK,,,,,,Blanche,4,Revenge,0.0,0.0,0.0
+1244,41998324238,1,0, ATK,,,,,,Blanche,3,Revenge,0.0,0.0,0.0
+1245,41998345823,1,0, ATK,,,,,,Blanche,5,Revenge,0.0,0.0,0.0
+1246,41998389049,1,0, ATK,,,,,,Blanche,3,Revenge,0.0,0.0,0.0
+1247,41998409376,1,0, ATK,,,,,,Blanche,3,Revenge,0.0,0.0,0.0
+1248,41998492132,1,0, ATK,,,,,,Blanche,3,Revenge,0.0,0.0,0.0
+1249,41998510141,1,0, ATK,,,,,,Blanche,4,Revenge,0.0,0.0,0.0
+1250,42098332325,1,0, ATK,,,,,,Blanche,4,Revenge,0.0,0.0,0.0
+1251,42098359287,1,0, ATK,,,,,,Blanche,4,Revenge,0.0,0.0,0.0
+1252,42227366979,1,0, ATK,,,,,,Blanche,4,Revenge,0.0,0.0,0.0
+1253,42227387285,1,0, ATK,,,,,,Blanche,3,Revenge,0.0,0.0,0.0
+1254,42663827835,1,0, ATK,,,,,,Blanche,3,Revenge,0.0,0.0,0.0
+1255,42663875046,1,0, ATK,,,,,,Blanche,3,Revenge,0.0,0.0,0.0
+1256,42663907023,1,0, ATK,,,,,,Blanche,4,Revenge,0.0,0.0,0.0
+1257,41463946102,2,0, % HP,,,,,,Blanche,5,Revenge,0.0,0.0,0.0
