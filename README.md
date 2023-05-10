@@ -13,6 +13,8 @@ Project: Application/Dashboard allowing an analysis of the runes of the summoner
 
 ## Installation
 
-- [Installer Power BI](https://powerbi.microsoft.com/fr-fr/downloads/)
-    
- 
+- [Install Power BI](https://powerbi.microsoft.com/fr-fr/downloads/)
+- Python (>=3.7.8) libraries :
+ ```bash
+pip install PyQt5, pandas
+```
