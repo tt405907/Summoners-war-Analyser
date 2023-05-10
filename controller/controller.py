@@ -19,5 +19,3 @@ class Controller:
 
     def instantiation_of_connections(self):
         self.controller_page_home.connection_events()
-
-

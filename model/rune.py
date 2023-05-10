@@ -1,4 +1,4 @@
-from model.configs import PROC_CARAC, PROC_CARAC_MAX, DICT_CARAC, DICT_TYPE_RUNES, DICT_PATH_RUNES, DICT_GEMME_CARAC, \
+from model.configs import PROC_CARAC, PROC_CARAC_MAX, DICT_CARAC, DICT_TYPE_RUNES, DICT_PATH_RUNES, \
     DICT_EXTRA, DICT_MEULE_ANTIQUE, QualityType, DICT_MEULE_LEG
 
 
@@ -6,7 +6,6 @@ class Rune:
 
     def __init__(self, id, slot, upgrade_current, primary, inate, subs, extra, nb_stars, sell_value, set_id):
         """
-
         :param id: id of the rune
         :param slot: slot of runes (1,2,3,4,5,6)
         :param upgrade_current: current upgrade of the runes
@@ -72,7 +71,6 @@ class Rune:
                     meule_max = DICT_MEULE_LEG[rune_type] if self.subs[i][3] > 0 else 0
                 list_grinds.append(meule/meule_max)
         self.grindable = sum([(1/len(list_grinds))*x for x in list_grinds])
-        # TODO : Gemmme maybe
         effi = ((8/9) * ratio_start) + ((1/9) * ratio_inate)
         return effi/1.7905240443809867
 

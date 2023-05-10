@@ -60,4 +60,3 @@ class ControllerPagehome:
             return "effi_real"
         elif 1 == index:
             return "effi_stats"
-

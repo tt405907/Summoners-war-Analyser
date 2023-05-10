@@ -1,7 +1,5 @@
-from PyQt5 import QtCore
-from PyQt5.QtGui import QPixmap, QImage, QPainter, QIcon
-from PyQt5.QtWidgets import QFileDialog, QHBoxLayout, QGroupBox, QVBoxLayout, QLabel, QPushButton, QTableWidgetItem, \
-    QTableWidget
+from PyQt5.QtGui import QPixmap
+from PyQt5.QtWidgets import QFileDialog, QHBoxLayout, QGroupBox, QVBoxLayout, QLabel
 
 from model.configs import DICT_TYPE_RUNES_NAME, DICT_PROC_TYPE_NAME, DICT_CARAC_NAME
 from view.page_home.window_home import PageHome
@@ -20,6 +18,9 @@ class ViewPageHome:
         self.page_home.line_edit_path_file.setText(reponse[0])
 
     def event_runes(self, runes):
+        """
+        The worst code of my life, one day I will surely have the courage to redo it better!
+        """
         i_layout = 0
         temp_layout = QHBoxLayout()
 
