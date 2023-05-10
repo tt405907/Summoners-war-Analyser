@@ -11,7 +11,7 @@ Project: Application/Dashboard allowing an analysis of the runes of the summoner
 
 [More information on my portfolio](http://theotracol.com/index.php/project-summoners-war-arena/)
 
-## Installation
+## Requirements
 
 - [Install Power BI](https://powerbi.microsoft.com/fr-fr/downloads/)
 - Python (>=3.7.8) libraries :
